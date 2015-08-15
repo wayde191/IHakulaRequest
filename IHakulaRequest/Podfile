@@ -1,0 +1,22 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/wayde191/IHakulaSpecs.git'
+
+platform :ios, '7.1'
+
+# IHakulaRequest common dependencies
+def commonPods
+    pod 'IHakulaInfrastructure', '~> 0.2.0'
+    pod 'ASIHTTPRequest'
+end
+
+target 'IHakulaRequest' do
+    commonPods
+end
+
+target 'IHakulaRequestTests' do
+    commonPods
+end
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logInfo</key>
+	<dict>
+		<key>isLogMessage</key>
+		<true/>
+		<key>logFileName</key>
+		<string>iHLogs</string>
+		<key>logFilePostfix</key>
+		<string>html</string>
+	</dict>
+	<key>serviceInfo</key>
+	<dict>
+		<key>rootUrl</key>
+		<string>http://www.ihakula.com</string>
+		<key>hostName</key>
+		<string>www.ihakula.com</string>
+	</dict>
+</dict>
+</plist>
