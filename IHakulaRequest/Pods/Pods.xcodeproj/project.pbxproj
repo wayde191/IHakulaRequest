@@ -7,271 +7,271 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		03469E7ABEFB176ECA49F60DE9E9057B /* iHValidationKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DFB6473B057E1CDED889E49B8BD6451 /* iHValidationKit.m */; };
-		04F0AFB7C007547EDC008F72C7D38256 /* NSLocale+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D0B14CBF2A34A3394F09F89776DA406 /* NSLocale+iHAddition.m */; };
-		053BB81C50E19AB88C69F48266695EC2 /* UIDevice+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A01F999BB854CF91B4C880D0E3BFCA4 /* UIDevice+iHAddition.h */; };
-		0556A57B912D3709342782105C095FF7 /* UIButton+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 33C2F68FC6D2CCCE287316759422C224 /* UIButton+iHAddition.h */; };
-		0586FBBD1F43942830C7599CC65E972E /* NSString+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = D78F5F48ABB9B18CD69E363A299E9700 /* NSString+iHAddition.m */; };
+		04CAE2F318319A4AE331F28DDDB318D2 /* iHImgOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = BE244871F01B04425B7B94EBE1981536 /* iHImgOperation.h */; };
 		05C8B1A02ED9B1B33D90B7EFDE0584BB /* Pods-IHakulaRequestTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0871EF96F5DA147E001E9DB0E74FED0E /* Pods-IHakulaRequestTests-dummy.m */; };
-		090B6CC52B9CB8BECA40AA21DA9851FB /* iHAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = D19237908BC0A22D066719DCE67BD67B /* iHAdditions.h */; };
-		09C6D28DE939A9A094D95EEFB9EBA5C5 /* iHImageCompresser.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DBB4A782DD3A29AF1BC92BFAE191BEA /* iHImageCompresser.m */; };
-		10CF50CC8A4219CD606FDC12B38F1A6D /* UIDevice+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 8589896CECCB6C3F0B2F54AD9C7A61F8 /* UIDevice+iHAddition.m */; };
-		15035A55F2157E3C5D983D0D1616DFE7 /* iHAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C2DD6C909FA57BE21AFD44F17545F4 /* iHAlertView.m */; };
-		1569A463A50CD265D8683EB505B36D8F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D68D5C3746DC924C09F07D1F8C90CBA9 /* UIKit.framework */; };
-		1C620BC37ECE8264B3E9AD5520715B63 /* CJSONScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 3489A16835AF0FFF832174DFF44073C3 /* CJSONScanner.h */; };
-		1CB032AE35D16EB4E646DB5AEEBA9391 /* iHImageCompresser.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BB3F73030DA4581353E73ACAB6E5EE2 /* iHImageCompresser.h */; };
-		1F9CC2A73B43DBCFD2A4156D256AF630 /* NSMutableArray+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = AAAF4B78AF211ED6B9DA001A06B5898F /* NSMutableArray+iHAddition.h */; };
-		27D3C6B6DFADA2E4B07770420127EBDF /* CDataScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BD9764285451411FDFD99DC86AFC73E /* CDataScanner.m */; };
-		285CD656506719107DC195909A90BF9C /* NSMutableArray+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 59778C3F70A5709E638A6979ECE39C23 /* NSMutableArray+iHAddition.m */; };
-		285DE020F724A2BEF45BB76E4489D5E9 /* iHCommonFunctions.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AF1ADBFE1C4AE72B68CF10155CF3FF6 /* iHCommonFunctions.h */; };
-		33DAB18A61A46A53315C1B8E911A17A5 /* iHFileManager.h in Headers */ = {isa = PBXBuildFile; fileRef = A99473C4B0E107A69250247222933BB1 /* iHFileManager.h */; };
-		3548F278A2BD175B68361E86182ADAD0 /* iHCommons.h in Headers */ = {isa = PBXBuildFile; fileRef = 180E296B87C30AC034D493CE848AE1A2 /* iHCommons.h */; };
-		3562A9324885E39E576296E2C490338C /* iHEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 136C77FEC2AE6F1A3B684B1D82D2DB42 /* iHEngine.m */; };
-		3C08C7CEBACE812A4467CD21FCCC01D9 /* iHImgCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 5000DC3BEC3C8303609F38BFA7354935 /* iHImgCache.m */; };
-		3CD7AC2204C2CAEDCFFBB5F120A186E9 /* iHSingletonCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FA95319CBA7AB07D28A47F9C09C390F /* iHSingletonCloud.m */; };
+		08D0CCFDD0CC30BD2EEEAF9C8663D7F8 /* iHSingletonCloud.m in Sources */ = {isa = PBXBuildFile; fileRef = D577BBB248A003985F70C685B6C5E2AF /* iHSingletonCloud.m */; };
+		0B8CAB1765CE36908F5F76748B719078 /* iHAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = 99057A5EA5369D490B31B7265432FA6B /* iHAlertView.h */; };
+		0BC93792DE579085199916DCF09628C2 /* iHNetworkMonitor.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A23EA3FFD825113E3683045BCA1DC0 /* iHNetworkMonitor.m */; };
+		0F8B9DECCC3C01613DE435FE70E30648 /* NSDictionary_JSONExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = E95968681F5B43AFF9529E321F652642 /* NSDictionary_JSONExtensions.h */; };
+		12B457901F9E8AFF55859E0059CF1511 /* iHValidationKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D252BE3B99FCFBEB091E3B3ED371EEA /* iHValidationKit.m */; };
+		16085CF27AF858D3B4EE3CDCA5ECFBE5 /* CDataScanner_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = DCE3AC48DAFA216E167653EE6F2B00AA /* CDataScanner_Extensions.m */; };
+		1AF77BCD756B4FC36E1E7CA3147E9755 /* NSString+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 16A567686D8DC09F9700E2962FEB99F9 /* NSString+iHAddition.h */; };
+		1B87B4E40CA244FF6DD9330E3CDEC268 /* UIDevice+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 48991F870E47A9944A7580EA854D015B /* UIDevice+iHAddition.h */; };
+		1C5E8A64D196BCB75649230D3B0C13D8 /* iHImgCache.m in Sources */ = {isa = PBXBuildFile; fileRef = BBB9ADA7A178F9B8A3C07AA038AF71AE /* iHImgCache.m */; };
+		1D95ADD047D35DF9317E419C660C2D10 /* UIView+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = F515BEA0892CEB255AD7FE55F03A3ED5 /* UIView+iHAddition.m */; };
+		24D4F92F66948F170480084F7A7F9E67 /* iHKits.h in Headers */ = {isa = PBXBuildFile; fileRef = AF58A55D22B13E20666BB3F322A6AD4C /* iHKits.h */; };
+		27C17D689574F84C737DD47C01E44436 /* NSMutableArray+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 14A16FC78D08714A41367E5ABA0AA3E6 /* NSMutableArray+iHAddition.m */; };
+		2BC57F44249A38D73FB8221AC1C8A715 /* UITextField+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 25B9C086E0C8BBFE9F9E54988D34FA39 /* UITextField+iHAddition.h */; };
+		316F6D4183BF5C05138DE4B8958DB9E5 /* iHSingletonCloud.h in Headers */ = {isa = PBXBuildFile; fileRef = 2DBCB4C9B1F963F2477AD5DC4DA74A1D /* iHSingletonCloud.h */; };
+		35E07DDDC815BB10D69B7E7419689604 /* iHImgCache.h in Headers */ = {isa = PBXBuildFile; fileRef = E8B7622BA18A76C6C8DEDA1F2B2090E5 /* iHImgCache.h */; };
+		368E2A1286558D7D183C21E113A82EBD /* CDataScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = C332C6A5EF2BA42FEAE9A2BA43CD4CE8 /* CDataScanner.h */; };
+		3A47313ADD2E550A9814E3FFC5881E22 /* iHConf.h in Headers */ = {isa = PBXBuildFile; fileRef = F3D3A6587205A5DB9A888091DF08E806 /* iHConf.h */; };
+		3B4FCB92E937AEB29073780DE3ED376E /* CJSONDeserializer.h in Headers */ = {isa = PBXBuildFile; fileRef = 083305C7005C5A6E0E1AA66FF573CC89 /* CJSONDeserializer.h */; };
+		3E09A6D661E9C9615821C62C16E7A05A /* UIDevice+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 09D6E0C1178D36AA7402C30A56C55D9F /* UIDevice+iHAddition.m */; };
 		3F91DCC662E951F685676CB8F0A29F69 /* Reachability-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DE4AAC77BE5A338FE5587D3BEEC4867 /* Reachability-dummy.m */; };
-		4188D7A5A351E1C76137CA555377DF1E /* iHArithmeticKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A446278504602E504A37293D821DF11 /* iHArithmeticKit.h */; };
-		42576E1AA7D169AE62A8E8B7BE5F1386 /* CJSONDeserializer.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CCF2A6119E4997027D4298553EF7297 /* CJSONDeserializer.h */; };
 		43E9D203B103ACEC0E9F9D669D18AEDA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3811A1ECE30883476F114E42572826EF /* Foundation.framework */; };
+		4451B8738AB36F00E9F797B8374900AD /* iHEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 83F2DFD3E4CBDB55FDD1BED8D3B5FD17 /* iHEngine.m */; };
 		44746DF6AA43FCD36DE777C1E7593B07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3811A1ECE30883476F114E42572826EF /* Foundation.framework */; };
-		46D84EDA52783BA795556D3746A9C9F8 /* iHCommonFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A936511E69F48EDB5F94E55B1F18367 /* iHCommonFunctions.m */; };
-		48061701C4127CE5388ED790F0D80131 /* NSDictionary_JSONExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 7D71E00C7DBD07FDEEC46CA2D0E38483 /* NSDictionary_JSONExtensions.h */; };
-		48DDA6A02FA672E01738000D5AC4059C /* iHEngine.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B479F35FBB2CEC302A25DAF3A595A96 /* iHEngine.h */; };
-		498411C6C5A638570F10A159C81E938B /* CJSONSerializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F1E4A4456640F7CFE7AB7484DAD94E /* CJSONSerializer.m */; };
-		4AEA15B267DB9AB595B8F6EE5206D1A4 /* NSCharacterSet_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 42647C45CD0968DA6034CD68FD12553F /* NSCharacterSet_Extensions.h */; };
-		4C4B5BAD7A766FE7CEAECC8D4298B416 /* CDataScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 73600A9D6C0F5196480265AA79888C05 /* CDataScanner.h */; };
-		4C89A81113095CB0307B9285C8C9A866 /* iHLogCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = 7FFC2EF1049BC3ADD36226CD83414BC2 /* iHLogCenter.h */; };
-		52121D87DB3807BD28EC620AD547383A /* iHMemory.m in Sources */ = {isa = PBXBuildFile; fileRef = 46E9618ABE5D9D2187814EC37A27CE7F /* iHMemory.m */; };
-		531C1449D981DDCF4E910C65B1754908 /* iHArithmeticKit.m in Sources */ = {isa = PBXBuildFile; fileRef = BC4017C36F0292E021516CC74B1A74F7 /* iHArithmeticKit.m */; };
-		535B7E5ABB86380D51D74F513C88C5D2 /* IHakulaInfrastructure.h in Headers */ = {isa = PBXBuildFile; fileRef = F24E6E4F16CDC5DBD297E98E88271C23 /* IHakulaInfrastructure.h */; };
-		54B734B62FB5DCA706B1E3A495367031 /* iHAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = A6E0469E5E1E8EF13476F2A671A5111B /* iHAlertView.h */; };
-		573A57FD53596C5D9BDA05A30081AF90 /* iHLogCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CB19FFA17D3C418D6E93EB9B58755BA /* iHLogCenter.m */; };
+		44884451EA3DCC06817D7E866DCC08BF /* iHImgOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7354081733C9794D97B98A32BE450556 /* iHImgOperation.m */; };
+		466A64A31E87DF83BE25F776C060F4E5 /* iHCacheDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 2708DB046854F9FB0ABFAB1123732B1C /* iHCacheDelegate.h */; };
+		477CAD2769898088E4B9AAC65034BDD7 /* iHDataArchiver.m in Sources */ = {isa = PBXBuildFile; fileRef = DEF659A11F36CE014234A5CFD74F6DD3 /* iHDataArchiver.m */; };
+		4E1BB1F159DC5A79046509DC822FE61C /* CJSONScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 367B504E79AFFE23C13EE97F43E09E0A /* CJSONScanner.h */; };
+		58F8F0833A67E2597A3F08C7DF99C12C /* UIView+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = BDA2768D7FDD9C07E41959447B9F6121 /* UIView+iHAddition.h */; };
 		5A35EB338EB2F46A81ED945CD8673D52 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 771061FB5D22A6166731D5E0F1927C88 /* Reachability.m */; };
-		5F2059315230966664F009C49B7DC404 /* NSDate+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D44611442E4E6351A2FCC508CE3F809 /* NSDate+iHAddition.m */; };
-		605D9FE3E29BE5C8E56B76EB334AE958 /* IHakulaInfrastructure-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4823BC67F16687390DF774505B37735E /* IHakulaInfrastructure-dummy.m */; };
-		66CD117BD898F64046AF20A789DD4E59 /* iHMemory.h in Headers */ = {isa = PBXBuildFile; fileRef = 52B2790538B9F342D4C5C7EFF421D8D4 /* iHMemory.h */; };
-		68779DC89AF5D00DD2EDA7D3C5A8A70F /* NSArray+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = F79D8051F59D8867559832C581ECCF86 /* NSArray+iHAddition.h */; };
-		69D0AFFD6CE2A9E4BFB1A0C5C2A00711 /* XMLDictionary.h in Headers */ = {isa = PBXBuildFile; fileRef = 28294A12D8A112175350DD5500186D3D /* XMLDictionary.h */; };
-		6D5856E011BC7F39B117B88FCE728050 /* iHCacheCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = A453255AF0E7CA31BB13262E5691D5B0 /* iHCacheCenter.m */; };
-		7BE6109BFB041031A5E8687B27C4B56C /* NSScanner_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 8DBB147B84D1B1DCEFDE2A49BCC6CD7F /* NSScanner_Extensions.h */; };
-		7C0AD9DC893771AB507A2EE23866DE9B /* iHNetworkMonitor.m in Sources */ = {isa = PBXBuildFile; fileRef = EDFCCB0D95AC046980C2BEEC0ACA3A2D /* iHNetworkMonitor.m */; };
-		7DA599DA6F0F0DC1C7FA3544B1CCF022 /* UILabel+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 80FB4BEF5DA3B12C0BB2603BF62F7A92 /* UILabel+iHAddition.m */; };
+		5BE695DE24FDF78C57C1221B70090D71 /* iHImageCompresser.m in Sources */ = {isa = PBXBuildFile; fileRef = 338DC27EFE4234FFA60AAB4053111041 /* iHImageCompresser.m */; };
+		5C518C6B72929421A3A3A9536B315494 /* UILabel+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = CB24955393D554DDF90C7FB59C978F74 /* UILabel+iHAddition.m */; };
+		5D28922BAC2AD59DD9B1CDD8D6064980 /* UIImage+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = CA532927E67FFA33F50257FC3628057E /* UIImage+iHAddition.h */; };
+		5E92A246AC77F077CBF7213C1CEBC196 /* NSLocale+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = F7746037E7E2CA20FFBD730D44E847F0 /* NSLocale+iHAddition.m */; };
+		615B1F2F81A7D6AF42604291684EE406 /* CJSONDeserializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 41E00BB4A41419754DBF0E22DBD20AB6 /* CJSONDeserializer.m */; };
+		630D7A016BE3668C5518C9CD42B4A0C6 /* iHPubSub.m in Sources */ = {isa = PBXBuildFile; fileRef = BD65BEE32C5FBFF4D77D0DDFDFA12862 /* iHPubSub.m */; };
+		66853036A9BA74D4C6796BACB1D94061 /* CJSONScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D4D730FA531CDCF0DA275F2C781CF22 /* CJSONScanner.m */; };
+		67F36A48C536B288A4BA3B369BA20DAD /* iHPubSub.h in Headers */ = {isa = PBXBuildFile; fileRef = 15EE5EF00DEBB92490AD6DAEBD761FEB /* iHPubSub.h */; };
+		69773DD6063806E237AC29FD158F6778 /* UIFont+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C165D8AAC0A78676760AA0785E40C76 /* UIFont+iHAddition.m */; };
+		6F58B7072830A8BE80461211F65CAA8C /* NSDate+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 7585CC66743D135D8F25944324CE34EB /* NSDate+iHAddition.h */; };
+		6F6F3798F3DD0ADBD9827F13803ED3B0 /* iHLog.m in Sources */ = {isa = PBXBuildFile; fileRef = EED326C751BCCC3055F9AF81364AD594 /* iHLog.m */; };
+		74812871CF56A9CED1BBB49D9847EE4A /* iHLog.h in Headers */ = {isa = PBXBuildFile; fileRef = 263C400F0CC043C7BD2C93FCA51BA93F /* iHLog.h */; };
+		75A7F477EE92A7FF17DEF5B1C3CAFC38 /* iHCacheCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = EE69B2C1FAA713F47703C691492E3E74 /* iHCacheCenter.h */; };
+		7997FD6FEE19A0B97825624FCA299EB4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D20091092D04E4D105CC8357C935E60A /* UIKit.framework */; };
+		7A9D565335E4AFCA93EE1F6269C34206 /* UIAlertView+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 735BF868411D91FDF53C239044BE8199 /* UIAlertView+iHAddition.m */; };
+		7B931F5CE86A29786F1C0EB87C24FE7A /* iHCommonMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BC55812E8623E456405D29FCBBCE591 /* iHCommonMacros.h */; };
+		7BEE88111DDA305AC0C4F4B2D77D75C1 /* CJSONSerializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7935DA448BBFB4D4B1E3351D96262A30 /* CJSONSerializer.m */; };
+		7E5B300F26E65136EF1135EB9E61590B /* NSArray+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CE8CFC55B263DBB72DECF924FE1293C /* NSArray+iHAddition.m */; };
+		7E5DE04DDF95D653478BC00784501D89 /* iHLogCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 6369725832B1D6EB9843765E98DBCFA4 /* iHLogCenter.m */; };
 		803E11AE3213390CD4215FC21A85ECAF /* Pods-IHakulaRequest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D3743DF080B53315CB58AAFA68729DBC /* Pods-IHakulaRequest-dummy.m */; };
-		83393C70D38008A926032D6A283B9524 /* CDataScanner_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A58BE0B78E3C538828F057EFE2DA412 /* CDataScanner_Extensions.h */; };
-		84CE7AC02B79FB3A59FD5A96AF2EF892 /* iHDataArchiver.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AB1E3088F4036ECE138C9EC824509BC /* iHDataArchiver.m */; };
-		8609F26EBBE7BC1EC74E2FB489744DD9 /* iHValidationKit.h in Headers */ = {isa = PBXBuildFile; fileRef = D0C74064726E3780B10DC86E04BC76F6 /* iHValidationKit.h */; };
-		88F5D2FC9FDC06521949483E7A3F8CE5 /* iHDataArchiver.h in Headers */ = {isa = PBXBuildFile; fileRef = 222939E1C8364BC8C7010753E9CC9876 /* iHDataArchiver.h */; };
+		815047F5141CC51D6F79FDD4788C5193 /* XMLDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = B45797D25B621F926CBE82F79F5880CF /* XMLDictionary.m */; };
+		823E590CF3AA77B835D953858FC332B9 /* iHAdditions+UIKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 96947D0131E5BB89D287C8FCE54AAF57 /* iHAdditions+UIKit.h */; };
+		83E3FA94E654F477FB6CA2728E8F03D7 /* UIButton+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 10D0F1E9C27E9B7C410914AD849DC5C2 /* UIButton+iHAddition.m */; };
+		87F42317CC7B242EB67B0B15A13EA3E7 /* XMLDictionary.h in Headers */ = {isa = PBXBuildFile; fileRef = 8FC2B9B408E7E78E528319B92E1B79D1 /* XMLDictionary.h */; };
+		89E51FB880DB5B3C07A6D6971C215112 /* CDataScanner_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = CCA009BD446A0B4F81F1BFAC45A90FE5 /* CDataScanner_Extensions.h */; };
+		89FBC3C7705454133AD27FD379251C5B /* iHAdditions+Foundation.h in Headers */ = {isa = PBXBuildFile; fileRef = 40E76F319392B743BBC8BCCD29962161 /* iHAdditions+Foundation.h */; };
 		8B5DE91D8DC7BC8038FCFD2AA2177E8D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3811A1ECE30883476F114E42572826EF /* Foundation.framework */; };
-		921DD31BCB91771EE7E1BAE5FBC826E3 /* UITextField+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = D9BE963825506A91F217BD9750E4F024 /* UITextField+iHAddition.h */; };
-		935C3474E5174D6E130EAEF243223820 /* UIImage+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = C9E24CE4BCB9DDB9111C283EC2761CF7 /* UIImage+iHAddition.h */; };
+		8DCC66AE68FD051F39D76C9F89F74691 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3811A1ECE30883476F114E42572826EF /* Foundation.framework */; };
+		8F25FAFDF977E369CB54F30FB3E655F2 /* UILabel+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAE8AB77CE142C4CD6F4BFC001E5C4E /* UILabel+iHAddition.h */; };
+		901E42403922FF4F7425713F39B8FC72 /* iHLogCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = F5F79AFF09BF7AE27A43FC46767D116E /* iHLogCenter.h */; };
+		980ADDF2CC8E907D66E9EC41B5223405 /* NSMutableArray+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 9449D0872FA2FBB883BEEBFF6E27F838 /* NSMutableArray+iHAddition.h */; };
 		9930C7DDAD17C7F56DDFCAC316F89E3C /* Reachability.h in Headers */ = {isa = PBXBuildFile; fileRef = F136FD8C750979A98D6312CE8ECA1506 /* Reachability.h */; };
-		9AFFDD112F3E9F5154E92E95C59C4C2E /* CJSONScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A8F55A4C414BC3A6A0978AEB2113E80 /* CJSONScanner.m */; };
-		9D72448B2E373EF59735966DD3B6A1D7 /* iHCacheDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 13B92747ED59C98D9FCEDB9B6F275735 /* iHCacheDelegate.h */; };
-		9E3CF86BEBED2EBB2036CF67F2B338E9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3811A1ECE30883476F114E42572826EF /* Foundation.framework */; };
-		A1A222327C4ED8532F923AA13DC14918 /* NSDate+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E120D4F3A56898617951BE41BD34E7A /* NSDate+iHAddition.h */; };
-		A1E1AC514875DDE2CF717713543AD069 /* NSDictionary_JSONExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7601F308F227DB42EDC5FE6FC1216380 /* NSDictionary_JSONExtensions.m */; };
-		A3D2275BA1BA5E0F6FC20CDE7E1A9ABB /* iHImgCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E919764B67F9873CC7397ED103DECED /* iHImgCache.h */; };
-		A487C4E31D11D8D3685D68F18CFF2CC9 /* iHLog.h in Headers */ = {isa = PBXBuildFile; fileRef = 19CAFAEF88848A810C5B8FBA41196DB2 /* iHLog.h */; };
-		A87DAB84B51A851EEC1D34ACEFCEE0F2 /* UIAlertView+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A8BF3113409C722A6BDB00AA022294 /* UIAlertView+iHAddition.m */; };
-		B15ACC8D2A41A923B05F8613E045CB0C /* UIImage+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = DD9048E56F9E5732E3BD79E2F7313E43 /* UIImage+iHAddition.m */; };
-		B3553903BA184756DDC6C4C2F0A85B81 /* iHImgOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0828CF644D97BB560491307B0452AC11 /* iHImgOperation.m */; };
-		B4E8E64E89D31AF2CFD31D5856997D3D /* UIFont+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = EFB5AF2B95CF86CD081989C49063A4C1 /* UIFont+iHAddition.h */; };
-		B63077D696A22AE97A9443387652E6C3 /* CJSONDeserializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 29A057531EBBA89A6E906019D9127133 /* CJSONDeserializer.m */; };
-		BB1F1EC4B24F10156BD836D79FB89395 /* CDataScanner_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0225DAD06AD7DC6E5F1AA5BA8A5D7236 /* CDataScanner_Extensions.m */; };
-		BB52FFCBF79C98F2EC1A9C8D7CBD1F34 /* iHNetworkMonitor.h in Headers */ = {isa = PBXBuildFile; fileRef = 4158EC7EEC86D2DDBE6D038839D3F14E /* iHNetworkMonitor.h */; };
-		BD1349C9C5DC9567A2B817D5CD5C0814 /* conf.plist in Sources */ = {isa = PBXBuildFile; fileRef = B0934C10B51DC365AD9DDF7BA7775006 /* conf.plist */; };
-		BD5C6F889DDA427F8BB3068696350D29 /* iHDebug.h in Headers */ = {isa = PBXBuildFile; fileRef = ADA8104466065184F211CE7947E5EA46 /* iHDebug.h */; };
-		BFF15FA1E2C68E974B549EB3E512ECEB /* iHLog.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A1E876D7AB1514F783D6E5AA1F503A /* iHLog.m */; };
-		C126CA0F5391285C1F227EF808299738 /* UITextField+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BEE3E5A0EED2467E1D35B4E8EC675C4 /* UITextField+iHAddition.m */; };
-		C55143C777AAA49475BFB4BE65683B4B /* XMLDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 755CD356F24FDCEA5ED50EBCE6750C6B /* XMLDictionary.m */; };
-		C5F0C783FDCD1AE33014FCD194587795 /* CJSONSerializer.h in Headers */ = {isa = PBXBuildFile; fileRef = 29A043853041B3C703B0B033D56F9B33 /* CJSONSerializer.h */; };
-		C7E7E68F2EA10AFACA1752678AB30950 /* UIView+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D253040E5B965A0F930199F66A004D /* UIView+iHAddition.m */; };
-		C9DD4E1F9DB78C3ECDFCBBA5065BDF9B /* iHCacheCenter.h in Headers */ = {isa = PBXBuildFile; fileRef = 6473140DCA600AFE0C43FBC5E4EA284A /* iHCacheCenter.h */; };
-		CA9252FD914E40EE76EEB21FE68C178D /* UIView+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 97651560269B5D133C355535F51129CF /* UIView+iHAddition.h */; };
-		CE210B434FD00FDC5728482577FDA0F1 /* iHKits.h in Headers */ = {isa = PBXBuildFile; fileRef = E26B86AD2F5211CE98CC8A045F8B71CE /* iHKits.h */; };
-		CF791CFFE84E272E3A296296FB2D39AC /* iHConf.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A8BA113321C4289EE255C2E63943F46 /* iHConf.h */; };
-		CF8C34EEA8CF7C615177A2AE06C0F575 /* iHLogManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 5D6BA7A76663DA6ED03C648DA3E74F7E /* iHLogManager.h */; };
-		D19A90BE1A6389C1F2B75A265C2349EC /* NSLocale+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CE90FF780F6FC8B856E67086C2D5795 /* NSLocale+iHAddition.h */; };
-		E57834ABDD7D3B60003D6F20B9A27883 /* NSString+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 7B9ED30B94F220DB23672C2D56F3B579 /* NSString+iHAddition.h */; };
-		E644B314E5BE338E6A056BAE4CE34EBD /* iHPubSub.h in Headers */ = {isa = PBXBuildFile; fileRef = AEBC4A166DEAAC9DDC160487FE4A6E55 /* iHPubSub.h */; };
-		E6ACC0316F68E775DF55695D019A0EE2 /* NSArray+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = E7A7266420AB7E65506A39CCAB4516AC /* NSArray+iHAddition.m */; };
+		A151C213062CCA928D39B50E0CD750D0 /* iHCommonFunctions.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A9B7589EE59212FA8A4D5D2956521D0 /* iHCommonFunctions.h */; };
+		A17DD92210564E5DAAAE6A2075984062 /* iHNetworkMonitor.h in Headers */ = {isa = PBXBuildFile; fileRef = F3EBB5B754B6A4CCD285F5F04B59798B /* iHNetworkMonitor.h */; };
+		A71BC01BC90646D2CACC319440F104BC /* NSDictionary_JSONExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1D0BBE4F64424C6371CAC799E93D4 /* NSDictionary_JSONExtensions.m */; };
+		AAC39F15EC96B1128A967A679B0E0E15 /* iHValidationKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C85C7D46ABCE3AC6A8C0BC2F312123C /* iHValidationKit.h */; };
+		AAE7B0F3D61DB997C548ED009CCD3826 /* UIAlertView+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = C7819057E2AD1CF85499670C0BE86C61 /* UIAlertView+iHAddition.h */; };
+		AB0B2710DB3D428420FF289AE9CB2ABC /* conf.plist in Sources */ = {isa = PBXBuildFile; fileRef = 3855D395C946C8BD275747B2CE966E53 /* conf.plist */; };
+		B41A7325D1A5C2EFDF631B173FEC3F86 /* iHCommons.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C1D4EFB0DC8D7D4E83796AAE590DA9C /* iHCommons.h */; };
+		B492DAA391F1B95C81805CB433FD0CCA /* IHakulaInfrastructure-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AF6666AA6C95D254B3DB99BAE004EE8 /* IHakulaInfrastructure-dummy.m */; };
+		B87A1FA07B60D6B912BA2FC375E17ED0 /* iHEngine.h in Headers */ = {isa = PBXBuildFile; fileRef = B0C3339E5B03F85EAE6ED293352EC463 /* iHEngine.h */; };
+		B8DC6FF50F8082389970A3419AEFC471 /* UITextField+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D94E04F4AEDB9FCD04EB5F9D2AC29F9 /* UITextField+iHAddition.m */; };
+		B8DC74EC072D00547077CCC2850C087A /* iHLogManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F05E3198D4D5FDCB4F098B468FA9FCFA /* iHLogManager.m */; };
+		BCD55836C26DC923F0E64444E65DAB64 /* iHMemory.m in Sources */ = {isa = PBXBuildFile; fileRef = A2C2A38193744E9E178F5499EE26A541 /* iHMemory.m */; };
+		BCD57BEB956343A53805200B7656252E /* IHakulaInfrastructure.h in Headers */ = {isa = PBXBuildFile; fileRef = E4683E253EC755E40AE44201D07E1F38 /* IHakulaInfrastructure.h */; };
+		C1EA7CA1B57A49B5B774443B253433AF /* NSScanner_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 37CABDAA8C4E6D91149FEDF190592880 /* NSScanner_Extensions.h */; };
+		C26BD9FB0CC446C2633E40039AC6C140 /* iHCommonFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 8741ACC140BEB89FB9D836746F5775DD /* iHCommonFunctions.m */; };
+		C2A04725F3173A770C3C93CAFF0DE8E4 /* CJSONSerializer.h in Headers */ = {isa = PBXBuildFile; fileRef = 256F413F07515A7B66F966271A17C2C5 /* CJSONSerializer.h */; };
+		C30CF0B56A66C23561B6453361E83E79 /* iHArithmeticKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E652B678B9A18364491524FD5D44BB6 /* iHArithmeticKit.h */; };
+		C314D62EE1ACE199EB73FCFABB95C94E /* iHLogManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 28DBF1F72633900B4309E48F37A4647A /* iHLogManager.h */; };
+		C9653A188AFFB2701DEAA9EF398CB619 /* iHAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EB274D7E0D9E79EC819FA8A6F10896A /* iHAlertView.m */; };
+		CCFC94244D76F30E39C8C64FAF3DA68C /* iHFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CD657E49F914229A04AE4746CD5EDCEB /* iHFileManager.m */; };
+		CDD35AD45319BD9A14EB63393F30D1B4 /* iHImageCompresser.h in Headers */ = {isa = PBXBuildFile; fileRef = 619A6473BF859642B3720D543136008B /* iHImageCompresser.h */; };
+		CDD564843E6896C5E99BF91EB8340368 /* NSScanner_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = B76F2A35219A91611192DB2517AC0D31 /* NSScanner_Extensions.m */; };
+		D05A3B02C080963445FBCE604B47FD85 /* iHFileManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 561F3050211273CB38683A27EF1D8043 /* iHFileManager.h */; };
+		D06D229BBADAE692562F5F9CBF46B38D /* NSCharacterSet_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = CB2949877F165640AC969A9EA07F4BF0 /* NSCharacterSet_Extensions.m */; };
+		D4D64FC32E03C97D8C22760ED8391CBC /* UIButton+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D8B2FD7CB4FD59140995A8B03469870 /* UIButton+iHAddition.h */; };
+		D786E685A13224F1A2945ED0FEC919D9 /* iHAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B60F5AA81193431E060B874A1A063D5 /* iHAdditions.h */; };
+		D7AE4D8859455B3F6679BB9CC12CC943 /* NSCharacterSet_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 9D8D96465B016F2AC8E96264C9CAFF71 /* NSCharacterSet_Extensions.h */; };
+		DB9EAE75A6772E287B49F5653B2515D7 /* UIFont+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A755204A642CEF52E648404758692F5 /* UIFont+iHAddition.h */; };
+		DC6CFCAADE88563BFB410BEA08C8E95C /* UIImage+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D93ED75861B9AD1360CD0F76BCE3B0D /* UIImage+iHAddition.m */; };
+		DCD7D29EE6A337EB0652CC35C1A6B754 /* iHArithmeticKit.m in Sources */ = {isa = PBXBuildFile; fileRef = B201879EF29FDAA57A0F54C2ADBA86E0 /* iHArithmeticKit.m */; };
+		E22B4384F9F233428E6385E081A3DFB7 /* NSArray+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = C2D77EA1593E6946A577450F21BEDC2A /* NSArray+iHAddition.h */; };
+		E56D74E954A577395B79413B5E75F64F /* iHCacheCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 2406B1B9FFF4BAB762F92C63838F2ED9 /* iHCacheCenter.m */; };
+		E7C6A1396119402F6FDB3AC61AA6A42F /* iHDebug.h in Headers */ = {isa = PBXBuildFile; fileRef = F2795983701E3CBFE7BDE29F72346608 /* iHDebug.h */; };
+		E8A15246AA7ECE82FB00B9A641658B1A /* NSLocale+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = D78A6A58D735E902D7B0E473E65C00C6 /* NSLocale+iHAddition.h */; };
 		E9A3EFDA08F79DD651E72FD1F20B9335 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F30DA52C60D8B42F372B933D296828FD /* SystemConfiguration.framework */; };
-		EBDB6D9EAB40135C37E92E72C9B63AE6 /* iHCommonMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = A6F1F49D7D8D0A7666DB3F632EB5296E /* iHCommonMacros.h */; };
-		EE0671EF9F88D7AB6AC49A1A1E03E25E /* iHImgOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = E9B859BD771F67E07776922DE299D7E8 /* iHImgOperation.h */; };
-		EFAA22145B301E1924559B9B424AF8C7 /* iHAdditions+Foundation.h in Headers */ = {isa = PBXBuildFile; fileRef = F0FED995167D4FD49D008C4A093834EC /* iHAdditions+Foundation.h */; };
-		EFB00AB69912D912F97D0F4E154D8924 /* UIFont+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = BB917D035C9354C7C11A363F01B91949 /* UIFont+iHAddition.m */; };
-		EFC23BB7FBA9271DC0DF161E3EAF901C /* NSScanner_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 349F2063519B2932DA14AF46B9AB3449 /* NSScanner_Extensions.m */; };
-		F107AC987EE3C13D21C2843FC4837283 /* iHLogManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3F3793AF15D7C43E21520C4ADC8E87 /* iHLogManager.m */; };
-		F7F1912F13025189D4D52FC841F59F3A /* UIButton+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 78C8BF59C51EFA8CC837BC0BC8DFB21F /* UIButton+iHAddition.m */; };
-		F98D59F6A93BFAE1270CE4CDCF947A89 /* iHAdditions+UIKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 2BA8BE6586AD5B3606B1B71B9AF53281 /* iHAdditions+UIKit.h */; };
-		F9E3F6A79319C5D78B87BD5F6BF48A74 /* iHSingletonCloud.h in Headers */ = {isa = PBXBuildFile; fileRef = F9B8C2CCB03860F1BA099DCCCF445BB3 /* iHSingletonCloud.h */; };
-		FA22DE50F96CC442F760D56C02F7431F /* NSCharacterSet_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 018DEE0B67DE7C22AEB8A33B60A6CA48 /* NSCharacterSet_Extensions.m */; };
-		FB2EACCC22DF18964485ABDCB786C5E2 /* iHPubSub.m in Sources */ = {isa = PBXBuildFile; fileRef = F82B5E824B4367C5834DD91F633121F6 /* iHPubSub.m */; };
-		FF0867C1E55529C2EEA4D681F3ECE152 /* UILabel+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 4BE4543BFC34732DBBC71D8C032E7965 /* UILabel+iHAddition.h */; };
-		FF89BEEA4F13079D887A72756A193564 /* iHFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F26DA2FE935824D878891B3DB779CE0 /* iHFileManager.m */; };
-		FFC01BF7D742DD89BD5A1FC33561D661 /* UIAlertView+iHAddition.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EF4CCA940E43AB6C52030C6AA3FCF7C /* UIAlertView+iHAddition.h */; };
+		ED4CD2192B436AFF91131216B8A4358A /* CDataScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = E5BD55449D7891D46D1E6B51D4B7895B /* CDataScanner.m */; };
+		EEB066F7C6DE1C8BA4D2ECE0826EF1DC /* iHDataArchiver.h in Headers */ = {isa = PBXBuildFile; fileRef = ABB31CF09599F865564CAE4717B90A65 /* iHDataArchiver.h */; };
+		F0511E60A35EE16BA3C106440DCDDF63 /* iHMemory.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F4F71484DA58E152F396534AEC0AAE5 /* iHMemory.h */; };
+		F22832B77F63E531599E8EB983671F13 /* NSString+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = D892692F225543E7ADC6DB7F634876BC /* NSString+iHAddition.m */; };
+		F59EB16F51E546D1F0842ADBEFA4356A /* NSDate+iHAddition.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A1BF14D7F9B6EAE0A0A83844FD2858 /* NSDate+iHAddition.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		30DD6B8F39EED69B835BC233410713F5 /* PBXContainerItemProxy */ = {
+		152D561342ED389854B09502F21B631C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 1893DE70459B9C5430E1E53597BF9817;
 			remoteInfo = Reachability;
 		};
-		8181967DA12CF7790E49EDF7332B480F /* PBXContainerItemProxy */ = {
+		6A2464AF4A0F56C78AAF92BA7928FDF8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1893DE70459B9C5430E1E53597BF9817;
-			remoteInfo = Reachability;
-		};
-		A495651FEAADF58B4C966E15250A995D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1893DE70459B9C5430E1E53597BF9817;
-			remoteInfo = Reachability;
-		};
-		C1B01FFF32C0ADDBE8582C794396E423 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A0C2D62A49D17BD72B6EA969090CDCD5;
+			remoteGlobalIDString = 3C94F2A5FB10E86640A40A831663EF98;
 			remoteInfo = IHakulaInfrastructure;
 		};
-		C27DF956FB5B0A9A9F8CC2CA21838A82 /* PBXContainerItemProxy */ = {
+		73D12BA621E4F568DB9D5C8DB700CC26 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A0C2D62A49D17BD72B6EA969090CDCD5;
+			remoteGlobalIDString = 3C94F2A5FB10E86640A40A831663EF98;
 			remoteInfo = IHakulaInfrastructure;
+		};
+		C20776C3F07BAC01670BFDE073740E89 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1893DE70459B9C5430E1E53597BF9817;
+			remoteInfo = Reachability;
+		};
+		C6CB5EF48F585FBFAF0A2E2134B77D41 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1893DE70459B9C5430E1E53597BF9817;
+			remoteInfo = Reachability;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		018DEE0B67DE7C22AEB8A33B60A6CA48 /* NSCharacterSet_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NSCharacterSet_Extensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSCharacterSet_Extensions.m; sourceTree = "<group>"; };
-		0225DAD06AD7DC6E5F1AA5BA8A5D7236 /* CDataScanner_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CDataScanner_Extensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/CDataScanner_Extensions.m; sourceTree = "<group>"; };
-		0828CF644D97BB560491307B0452AC11 /* iHImgOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHImgOperation.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgOperation.m; sourceTree = "<group>"; };
+		083305C7005C5A6E0E1AA66FF573CC89 /* CJSONDeserializer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CJSONDeserializer.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONDeserializer.h; sourceTree = "<group>"; };
 		0871EF96F5DA147E001E9DB0E74FED0E /* Pods-IHakulaRequestTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-IHakulaRequestTests-dummy.m"; sourceTree = "<group>"; };
-		0A8BA113321C4289EE255C2E63943F46 /* iHConf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHConf.h; path = IHakulaInfrastructure/IHakulaInfrastructure/iHConf.h; sourceTree = "<group>"; };
-		0A8F55A4C414BC3A6A0978AEB2113E80 /* CJSONScanner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CJSONScanner.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONScanner.m; sourceTree = "<group>"; };
-		136C77FEC2AE6F1A3B684B1D82D2DB42 /* iHEngine.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHEngine.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHEngine/iHEngine.m; sourceTree = "<group>"; };
-		13B92747ED59C98D9FCEDB9B6F275735 /* iHCacheDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCacheDelegate.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHCacheDelegate.h; sourceTree = "<group>"; };
-		180E296B87C30AC034D493CE848AE1A2 /* iHCommons.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCommons.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommons.h; sourceTree = "<group>"; };
-		18F1E4A4456640F7CFE7AB7484DAD94E /* CJSONSerializer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CJSONSerializer.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONSerializer.m; sourceTree = "<group>"; };
-		19CAFAEF88848A810C5B8FBA41196DB2 /* iHLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHLog.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLog.h; sourceTree = "<group>"; };
-		1A01F999BB854CF91B4C880D0E3BFCA4 /* UIDevice+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIDevice+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIDevice+iHAddition.h"; sourceTree = "<group>"; };
+		09D6E0C1178D36AA7402C30A56C55D9F /* UIDevice+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIDevice+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIDevice+iHAddition.m"; sourceTree = "<group>"; };
+		0CE8CFC55B263DBB72DECF924FE1293C /* NSArray+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSArray+iHAddition.m"; sourceTree = "<group>"; };
+		0D8B2FD7CB4FD59140995A8B03469870 /* UIButton+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIButton+iHAddition.h"; sourceTree = "<group>"; };
+		10D0F1E9C27E9B7C410914AD849DC5C2 /* UIButton+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIButton+iHAddition.m"; sourceTree = "<group>"; };
+		14A16FC78D08714A41367E5ABA0AA3E6 /* NSMutableArray+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableArray+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSMutableArray+iHAddition.m"; sourceTree = "<group>"; };
+		15EE5EF00DEBB92490AD6DAEBD761FEB /* iHPubSub.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHPubSub.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHPubSub/iHPubSub.h; sourceTree = "<group>"; };
+		16A567686D8DC09F9700E2962FEB99F9 /* NSString+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSString+iHAddition.h"; sourceTree = "<group>"; };
 		1B2923FD387D966877A53D7260086E7F /* Pods-IHakulaRequest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IHakulaRequest.debug.xcconfig"; sourceTree = "<group>"; };
-		1BD9764285451411FDFD99DC86AFC73E /* CDataScanner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CDataScanner.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/CDataScanner.m; sourceTree = "<group>"; };
-		1CE90FF780F6FC8B856E67086C2D5795 /* NSLocale+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLocale+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSLocale+iHAddition.h"; sourceTree = "<group>"; };
+		1C165D8AAC0A78676760AA0785E40C76 /* UIFont+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIFont+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIFont+iHAddition.m"; sourceTree = "<group>"; };
 		1D5CC54E94C499ECF5D59EF5F82EBA63 /* Pods-IHakulaRequest-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-IHakulaRequest-resources.sh"; sourceTree = "<group>"; };
-		1F26DA2FE935824D878891B3DB779CE0 /* iHFileManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHFileManager.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHFileManager/iHFileManager.m; sourceTree = "<group>"; };
+		1F4F71484DA58E152F396534AEC0AAE5 /* iHMemory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHMemory.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHMemory/iHMemory.h; sourceTree = "<group>"; };
+		1FA18056676DCB1BDD7414D212375783 /* libIHakulaInfrastructure.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libIHakulaInfrastructure.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FE985AB23FC5A00889CF1B3A642EC05 /* Reachability.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Reachability.xcconfig; sourceTree = "<group>"; };
-		222939E1C8364BC8C7010753E9CC9876 /* iHDataArchiver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHDataArchiver.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHDataArchiver.h; sourceTree = "<group>"; };
+		2406B1B9FFF4BAB762F92C63838F2ED9 /* iHCacheCenter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHCacheCenter.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHCacheCenter.m; sourceTree = "<group>"; };
 		24A66AC93F67E6D26F50A98BD09E8A34 /* Pods-IHakulaRequest-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-IHakulaRequest-acknowledgements.markdown"; sourceTree = "<group>"; };
 		25660515B0386D7571255BD7361D494A /* Pods-IHakulaRequestTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-IHakulaRequestTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		28294A12D8A112175350DD5500186D3D /* XMLDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMLDictionary.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/XMLParser/XMLDictionary/XMLDictionary.h; sourceTree = "<group>"; };
-		29A043853041B3C703B0B033D56F9B33 /* CJSONSerializer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CJSONSerializer.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONSerializer.h; sourceTree = "<group>"; };
-		29A057531EBBA89A6E906019D9127133 /* CJSONDeserializer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CJSONDeserializer.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONDeserializer.m; sourceTree = "<group>"; };
-		2BA8BE6586AD5B3606B1B71B9AF53281 /* iHAdditions+UIKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "iHAdditions+UIKit.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/iHAdditions+UIKit.h"; sourceTree = "<group>"; };
-		2CCF2A6119E4997027D4298553EF7297 /* CJSONDeserializer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CJSONDeserializer.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONDeserializer.h; sourceTree = "<group>"; };
+		256F413F07515A7B66F966271A17C2C5 /* CJSONSerializer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CJSONSerializer.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONSerializer.h; sourceTree = "<group>"; };
+		25B9C086E0C8BBFE9F9E54988D34FA39 /* UITextField+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UITextField+iHAddition.h"; sourceTree = "<group>"; };
+		263C400F0CC043C7BD2C93FCA51BA93F /* iHLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHLog.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLog.h; sourceTree = "<group>"; };
+		2708DB046854F9FB0ABFAB1123732B1C /* iHCacheDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCacheDelegate.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHCacheDelegate.h; sourceTree = "<group>"; };
+		28DBF1F72633900B4309E48F37A4647A /* iHLogManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHLogManager.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogManager.h; sourceTree = "<group>"; };
+		2B60F5AA81193431E060B874A1A063D5 /* iHAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHAdditions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Additions/iHAdditions.h; sourceTree = "<group>"; };
+		2D94E04F4AEDB9FCD04EB5F9D2AC29F9 /* UITextField+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UITextField+iHAddition.m"; sourceTree = "<group>"; };
+		2DBCB4C9B1F963F2477AD5DC4DA74A1D /* iHSingletonCloud.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHSingletonCloud.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHSingletonCloud/iHSingletonCloud.h; sourceTree = "<group>"; };
 		2DE4AAC77BE5A338FE5587D3BEEC4867 /* Reachability-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Reachability-dummy.m"; sourceTree = "<group>"; };
-		3390CCE665D382C160C6C91C25AED04F /* libIHakulaInfrastructure.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libIHakulaInfrastructure.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		33C2F68FC6D2CCCE287316759422C224 /* UIButton+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIButton+iHAddition.h"; sourceTree = "<group>"; };
-		3489A16835AF0FFF832174DFF44073C3 /* CJSONScanner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CJSONScanner.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONScanner.h; sourceTree = "<group>"; };
-		349F2063519B2932DA14AF46B9AB3449 /* NSScanner_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NSScanner_Extensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSScanner_Extensions.m; sourceTree = "<group>"; };
+		338DC27EFE4234FFA60AAB4053111041 /* iHImageCompresser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHImageCompresser.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHImageCompresser/iHImageCompresser.m; sourceTree = "<group>"; };
+		367B504E79AFFE23C13EE97F43E09E0A /* CJSONScanner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CJSONScanner.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONScanner.h; sourceTree = "<group>"; };
+		37CABDAA8C4E6D91149FEDF190592880 /* NSScanner_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NSScanner_Extensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSScanner_Extensions.h; sourceTree = "<group>"; };
 		3811A1ECE30883476F114E42572826EF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3BB3F73030DA4581353E73ACAB6E5EE2 /* iHImageCompresser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHImageCompresser.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHImageCompresser/iHImageCompresser.h; sourceTree = "<group>"; };
-		3D44611442E4E6351A2FCC508CE3F809 /* NSDate+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSDate+iHAddition.m"; sourceTree = "<group>"; };
-		4158EC7EEC86D2DDBE6D038839D3F14E /* iHNetworkMonitor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHNetworkMonitor.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHNetworkMonitor/iHNetworkMonitor.h; sourceTree = "<group>"; };
+		3855D395C946C8BD275747B2CE966E53 /* conf.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = conf.plist; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHEngine/conf.plist; sourceTree = "<group>"; };
+		3A755204A642CEF52E648404758692F5 /* UIFont+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIFont+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIFont+iHAddition.h"; sourceTree = "<group>"; };
+		3BC55812E8623E456405D29FCBBCE591 /* iHCommonMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCommonMacros.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommonMacros.h; sourceTree = "<group>"; };
+		3CE1D0BBE4F64424C6371CAC799E93D4 /* NSDictionary_JSONExtensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NSDictionary_JSONExtensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSDictionary_JSONExtensions.m; sourceTree = "<group>"; };
+		40E76F319392B743BBC8BCCD29962161 /* iHAdditions+Foundation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "iHAdditions+Foundation.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/iHAdditions+Foundation.h"; sourceTree = "<group>"; };
+		41E00BB4A41419754DBF0E22DBD20AB6 /* CJSONDeserializer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CJSONDeserializer.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONDeserializer.m; sourceTree = "<group>"; };
 		41E2B17F39B9E049331D6D3482D3B17E /* Pods-IHakulaRequestTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-IHakulaRequestTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		42647C45CD0968DA6034CD68FD12553F /* NSCharacterSet_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NSCharacterSet_Extensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSCharacterSet_Extensions.h; sourceTree = "<group>"; };
 		4365249BF3672446CDE9A62BFAB6CBC9 /* IHakulaInfrastructure-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IHakulaInfrastructure-prefix.pch"; sourceTree = "<group>"; };
-		46E9618ABE5D9D2187814EC37A27CE7F /* iHMemory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHMemory.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHMemory/iHMemory.m; sourceTree = "<group>"; };
-		4823BC67F16687390DF774505B37735E /* IHakulaInfrastructure-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IHakulaInfrastructure-dummy.m"; sourceTree = "<group>"; };
-		4A936511E69F48EDB5F94E55B1F18367 /* iHCommonFunctions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHCommonFunctions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommonFunctions.m; sourceTree = "<group>"; };
-		4AB1E3088F4036ECE138C9EC824509BC /* iHDataArchiver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHDataArchiver.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHDataArchiver.m; sourceTree = "<group>"; };
-		4BE4543BFC34732DBBC71D8C032E7965 /* UILabel+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UILabel+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UILabel+iHAddition.h"; sourceTree = "<group>"; };
-		4DFB6473B057E1CDED889E49B8BD6451 /* iHValidationKit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHValidationKit.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHValidationKit.m; sourceTree = "<group>"; };
-		5000DC3BEC3C8303609F38BFA7354935 /* iHImgCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHImgCache.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgCache.m; sourceTree = "<group>"; };
-		52B2790538B9F342D4C5C7EFF421D8D4 /* iHMemory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHMemory.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHMemory/iHMemory.h; sourceTree = "<group>"; };
-		59778C3F70A5709E638A6979ECE39C23 /* NSMutableArray+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableArray+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSMutableArray+iHAddition.m"; sourceTree = "<group>"; };
-		5B479F35FBB2CEC302A25DAF3A595A96 /* iHEngine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHEngine.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHEngine/iHEngine.h; sourceTree = "<group>"; };
-		5CB19FFA17D3C418D6E93EB9B58755BA /* iHLogCenter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHLogCenter.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogCenter.m; sourceTree = "<group>"; };
-		5D0B14CBF2A34A3394F09F89776DA406 /* NSLocale+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLocale+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSLocale+iHAddition.m"; sourceTree = "<group>"; };
-		5D6BA7A76663DA6ED03C648DA3E74F7E /* iHLogManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHLogManager.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogManager.h; sourceTree = "<group>"; };
-		5E919764B67F9873CC7397ED103DECED /* iHImgCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHImgCache.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgCache.h; sourceTree = "<group>"; };
-		5EF4CCA940E43AB6C52030C6AA3FCF7C /* UIAlertView+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIAlertView+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIAlertView+iHAddition.h"; sourceTree = "<group>"; };
-		6473140DCA600AFE0C43FBC5E4EA284A /* iHCacheCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCacheCenter.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHCacheCenter.h; sourceTree = "<group>"; };
+		48991F870E47A9944A7580EA854D015B /* UIDevice+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIDevice+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIDevice+iHAddition.h"; sourceTree = "<group>"; };
+		4A9B7589EE59212FA8A4D5D2956521D0 /* iHCommonFunctions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCommonFunctions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommonFunctions.h; sourceTree = "<group>"; };
+		4C85C7D46ABCE3AC6A8C0BC2F312123C /* iHValidationKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHValidationKit.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHValidationKit.h; sourceTree = "<group>"; };
+		561F3050211273CB38683A27EF1D8043 /* iHFileManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHFileManager.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHFileManager/iHFileManager.h; sourceTree = "<group>"; };
+		58A23EA3FFD825113E3683045BCA1DC0 /* iHNetworkMonitor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHNetworkMonitor.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHNetworkMonitor/iHNetworkMonitor.m; sourceTree = "<group>"; };
+		5EB274D7E0D9E79EC819FA8A6F10896A /* iHAlertView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHAlertView.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHAlertView/iHAlertView.m; sourceTree = "<group>"; };
+		619A6473BF859642B3720D543136008B /* iHImageCompresser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHImageCompresser.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHImageCompresser/iHImageCompresser.h; sourceTree = "<group>"; };
+		6369725832B1D6EB9843765E98DBCFA4 /* iHLogCenter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHLogCenter.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogCenter.m; sourceTree = "<group>"; };
 		6569601CFF094BF7A8C021D1F9AE8FDB /* libReachability.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libReachability.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		67259F3BDEF9A58F869AC8D47021B125 /* IHakulaInfrastructure.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IHakulaInfrastructure.xcconfig; sourceTree = "<group>"; };
-		6BEE3E5A0EED2467E1D35B4E8EC675C4 /* UITextField+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UITextField+iHAddition.m"; sourceTree = "<group>"; };
-		6DBB4A782DD3A29AF1BC92BFAE191BEA /* iHImageCompresser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHImageCompresser.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHImageCompresser/iHImageCompresser.m; sourceTree = "<group>"; };
+		6C1D4EFB0DC8D7D4E83796AAE590DA9C /* iHCommons.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCommons.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommons.h; sourceTree = "<group>"; };
+		6E652B678B9A18364491524FD5D44BB6 /* iHArithmeticKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHArithmeticKit.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHArithmeticKit.h; sourceTree = "<group>"; };
 		6ED8D95745CDB40D89EC1E1D24AB22F7 /* Reachability-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Reachability-prefix.pch"; sourceTree = "<group>"; };
-		73600A9D6C0F5196480265AA79888C05 /* CDataScanner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CDataScanner.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/CDataScanner.h; sourceTree = "<group>"; };
-		755CD356F24FDCEA5ED50EBCE6750C6B /* XMLDictionary.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMLDictionary.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/XMLParser/XMLDictionary/XMLDictionary.m; sourceTree = "<group>"; };
-		7601F308F227DB42EDC5FE6FC1216380 /* NSDictionary_JSONExtensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NSDictionary_JSONExtensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSDictionary_JSONExtensions.m; sourceTree = "<group>"; };
+		7269EA0BDAAE76F1AB5A1B43681B3ACE /* IHakulaInfrastructure-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "IHakulaInfrastructure-Private.xcconfig"; sourceTree = "<group>"; };
+		7354081733C9794D97B98A32BE450556 /* iHImgOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHImgOperation.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgOperation.m; sourceTree = "<group>"; };
+		735BF868411D91FDF53C239044BE8199 /* UIAlertView+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIAlertView+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIAlertView+iHAddition.m"; sourceTree = "<group>"; };
+		7585CC66743D135D8F25944324CE34EB /* NSDate+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSDate+iHAddition.h"; sourceTree = "<group>"; };
 		771061FB5D22A6166731D5E0F1927C88 /* Reachability.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
-		78C8BF59C51EFA8CC837BC0BC8DFB21F /* UIButton+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIButton+iHAddition.m"; sourceTree = "<group>"; };
-		79D253040E5B965A0F930199F66A004D /* UIView+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIView+iHAddition.m"; sourceTree = "<group>"; };
-		7A446278504602E504A37293D821DF11 /* iHArithmeticKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHArithmeticKit.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHArithmeticKit.h; sourceTree = "<group>"; };
-		7A58BE0B78E3C538828F057EFE2DA412 /* CDataScanner_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CDataScanner_Extensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/CDataScanner_Extensions.h; sourceTree = "<group>"; };
-		7AF1ADBFE1C4AE72B68CF10155CF3FF6 /* iHCommonFunctions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCommonFunctions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommonFunctions.h; sourceTree = "<group>"; };
-		7B9ED30B94F220DB23672C2D56F3B579 /* NSString+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSString+iHAddition.h"; sourceTree = "<group>"; };
-		7D71E00C7DBD07FDEEC46CA2D0E38483 /* NSDictionary_JSONExtensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NSDictionary_JSONExtensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSDictionary_JSONExtensions.h; sourceTree = "<group>"; };
-		7FA95319CBA7AB07D28A47F9C09C390F /* iHSingletonCloud.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHSingletonCloud.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHSingletonCloud/iHSingletonCloud.m; sourceTree = "<group>"; };
-		7FFC2EF1049BC3ADD36226CD83414BC2 /* iHLogCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHLogCenter.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogCenter.h; sourceTree = "<group>"; };
-		80FB4BEF5DA3B12C0BB2603BF62F7A92 /* UILabel+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UILabel+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UILabel+iHAddition.m"; sourceTree = "<group>"; };
+		7935DA448BBFB4D4B1E3351D96262A30 /* CJSONSerializer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CJSONSerializer.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONSerializer.m; sourceTree = "<group>"; };
+		7D252BE3B99FCFBEB091E3B3ED371EEA /* iHValidationKit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHValidationKit.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHValidationKit.m; sourceTree = "<group>"; };
+		83F2DFD3E4CBDB55FDD1BED8D3B5FD17 /* iHEngine.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHEngine.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHEngine/iHEngine.m; sourceTree = "<group>"; };
 		84F793DE0E0583DB35E0CA1A214AD3B0 /* Pods-IHakulaRequestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IHakulaRequestTests.debug.xcconfig"; sourceTree = "<group>"; };
-		8589896CECCB6C3F0B2F54AD9C7A61F8 /* UIDevice+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIDevice+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIDevice+iHAddition.m"; sourceTree = "<group>"; };
-		8DBB147B84D1B1DCEFDE2A49BCC6CD7F /* NSScanner_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NSScanner_Extensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSScanner_Extensions.h; sourceTree = "<group>"; };
-		90A8BF3113409C722A6BDB00AA022294 /* UIAlertView+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIAlertView+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIAlertView+iHAddition.m"; sourceTree = "<group>"; };
-		97651560269B5D133C355535F51129CF /* UIView+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIView+iHAddition.h"; sourceTree = "<group>"; };
+		8741ACC140BEB89FB9D836746F5775DD /* iHCommonFunctions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHCommonFunctions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommonFunctions.m; sourceTree = "<group>"; };
+		88A1BF14D7F9B6EAE0A0A83844FD2858 /* NSDate+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSDate+iHAddition.m"; sourceTree = "<group>"; };
+		8AF6666AA6C95D254B3DB99BAE004EE8 /* IHakulaInfrastructure-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IHakulaInfrastructure-dummy.m"; sourceTree = "<group>"; };
+		8D93ED75861B9AD1360CD0F76BCE3B0D /* UIImage+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIImage+iHAddition.m"; sourceTree = "<group>"; };
+		8FC2B9B408E7E78E528319B92E1B79D1 /* XMLDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMLDictionary.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/XMLParser/XMLDictionary/XMLDictionary.h; sourceTree = "<group>"; };
+		9449D0872FA2FBB883BEEBFF6E27F838 /* NSMutableArray+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableArray+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSMutableArray+iHAddition.h"; sourceTree = "<group>"; };
+		96947D0131E5BB89D287C8FCE54AAF57 /* iHAdditions+UIKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "iHAdditions+UIKit.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/iHAdditions+UIKit.h"; sourceTree = "<group>"; };
+		99057A5EA5369D490B31B7265432FA6B /* iHAlertView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHAlertView.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHAlertView/iHAlertView.h; sourceTree = "<group>"; };
 		996821A6A1048FC75E3AB5FF4034718B /* Reachability-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Reachability-Private.xcconfig"; sourceTree = "<group>"; };
-		9E120D4F3A56898617951BE41BD34E7A /* NSDate+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSDate+iHAddition.h"; sourceTree = "<group>"; };
-		A453255AF0E7CA31BB13262E5691D5B0 /* iHCacheCenter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHCacheCenter.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHCacheCenter.m; sourceTree = "<group>"; };
-		A6E0469E5E1E8EF13476F2A671A5111B /* iHAlertView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHAlertView.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHAlertView/iHAlertView.h; sourceTree = "<group>"; };
-		A6F1F49D7D8D0A7666DB3F632EB5296E /* iHCommonMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCommonMacros.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Common/iHCommonMacros.h; sourceTree = "<group>"; };
-		A99473C4B0E107A69250247222933BB1 /* iHFileManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHFileManager.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHFileManager/iHFileManager.h; sourceTree = "<group>"; };
-		AAAF4B78AF211ED6B9DA001A06B5898F /* NSMutableArray+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableArray+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSMutableArray+iHAddition.h"; sourceTree = "<group>"; };
-		ADA8104466065184F211CE7947E5EA46 /* iHDebug.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHDebug.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHDebug/iHDebug.h; sourceTree = "<group>"; };
-		AEBC4A166DEAAC9DDC160487FE4A6E55 /* iHPubSub.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHPubSub.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHPubSub/iHPubSub.h; sourceTree = "<group>"; };
-		B0934C10B51DC365AD9DDF7BA7775006 /* conf.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = conf.plist; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHEngine/conf.plist; sourceTree = "<group>"; };
+		9CAE8AB77CE142C4CD6F4BFC001E5C4E /* UILabel+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UILabel+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UILabel+iHAddition.h"; sourceTree = "<group>"; };
+		9D4D730FA531CDCF0DA275F2C781CF22 /* CJSONScanner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CJSONScanner.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/JSON/CJSONScanner.m; sourceTree = "<group>"; };
+		9D8D96465B016F2AC8E96264C9CAFF71 /* NSCharacterSet_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NSCharacterSet_Extensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSCharacterSet_Extensions.h; sourceTree = "<group>"; };
+		A2C2A38193744E9E178F5499EE26A541 /* iHMemory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHMemory.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHMemory/iHMemory.m; sourceTree = "<group>"; };
+		ABB31CF09599F865564CAE4717B90A65 /* iHDataArchiver.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHDataArchiver.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHDataArchiver.h; sourceTree = "<group>"; };
+		AF58A55D22B13E20666BB3F322A6AD4C /* iHKits.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHKits.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHKits.h; sourceTree = "<group>"; };
+		B0C3339E5B03F85EAE6ED293352EC463 /* iHEngine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHEngine.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHEngine/iHEngine.h; sourceTree = "<group>"; };
+		B201879EF29FDAA57A0F54C2ADBA86E0 /* iHArithmeticKit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHArithmeticKit.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHArithmeticKit.m; sourceTree = "<group>"; };
+		B45797D25B621F926CBE82F79F5880CF /* XMLDictionary.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMLDictionary.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/XMLParser/XMLDictionary/XMLDictionary.m; sourceTree = "<group>"; };
 		B51507587F65280391CBD741FE320A5F /* Pods-IHakulaRequest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IHakulaRequest.release.xcconfig"; sourceTree = "<group>"; };
+		B76F2A35219A91611192DB2517AC0D31 /* NSScanner_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NSScanner_Extensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSScanner_Extensions.m; sourceTree = "<group>"; };
 		B9A4010AAE0F65A3E548DD72EEEC5FF7 /* libPods-IHakulaRequestTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-IHakulaRequestTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		BB917D035C9354C7C11A363F01B91949 /* UIFont+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIFont+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIFont+iHAddition.m"; sourceTree = "<group>"; };
-		BC4017C36F0292E021516CC74B1A74F7 /* iHArithmeticKit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHArithmeticKit.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHArithmeticKit.m; sourceTree = "<group>"; };
-		C9E24CE4BCB9DDB9111C283EC2761CF7 /* UIImage+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIImage+iHAddition.h"; sourceTree = "<group>"; };
-		CA4ACA12A54DCD64CC33E80BF78BD624 /* IHakulaInfrastructure-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "IHakulaInfrastructure-Private.xcconfig"; sourceTree = "<group>"; };
-		CE3F3793AF15D7C43E21520C4ADC8E87 /* iHLogManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHLogManager.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogManager.m; sourceTree = "<group>"; };
-		D0C74064726E3780B10DC86E04BC76F6 /* iHValidationKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHValidationKit.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHValidationKit.h; sourceTree = "<group>"; };
-		D19237908BC0A22D066719DCE67BD67B /* iHAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHAdditions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Additions/iHAdditions.h; sourceTree = "<group>"; };
-		D2A1E876D7AB1514F783D6E5AA1F503A /* iHLog.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHLog.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLog.m; sourceTree = "<group>"; };
+		BBB9ADA7A178F9B8A3C07AA038AF71AE /* iHImgCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHImgCache.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgCache.m; sourceTree = "<group>"; };
+		BD65BEE32C5FBFF4D77D0DDFDFA12862 /* iHPubSub.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHPubSub.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHPubSub/iHPubSub.m; sourceTree = "<group>"; };
+		BDA2768D7FDD9C07E41959447B9F6121 /* UIView+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIView+iHAddition.h"; sourceTree = "<group>"; };
+		BE244871F01B04425B7B94EBE1981536 /* iHImgOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHImgOperation.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgOperation.h; sourceTree = "<group>"; };
+		C2D77EA1593E6946A577450F21BEDC2A /* NSArray+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSArray+iHAddition.h"; sourceTree = "<group>"; };
+		C332C6A5EF2BA42FEAE9A2BA43CD4CE8 /* CDataScanner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CDataScanner.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/CDataScanner.h; sourceTree = "<group>"; };
+		C7819057E2AD1CF85499670C0BE86C61 /* UIAlertView+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIAlertView+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIAlertView+iHAddition.h"; sourceTree = "<group>"; };
+		CA532927E67FFA33F50257FC3628057E /* UIImage+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIImage+iHAddition.h"; sourceTree = "<group>"; };
+		CB24955393D554DDF90C7FB59C978F74 /* UILabel+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UILabel+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UILabel+iHAddition.m"; sourceTree = "<group>"; };
+		CB2949877F165640AC969A9EA07F4BF0 /* NSCharacterSet_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NSCharacterSet_Extensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSCharacterSet_Extensions.m; sourceTree = "<group>"; };
+		CCA009BD446A0B4F81F1BFAC45A90FE5 /* CDataScanner_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CDataScanner_Extensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/CDataScanner_Extensions.h; sourceTree = "<group>"; };
+		CD657E49F914229A04AE4746CD5EDCEB /* iHFileManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHFileManager.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHFileManager/iHFileManager.m; sourceTree = "<group>"; };
+		D20091092D04E4D105CC8357C935E60A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		D3743DF080B53315CB58AAFA68729DBC /* Pods-IHakulaRequest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-IHakulaRequest-dummy.m"; sourceTree = "<group>"; };
-		D68D5C3746DC924C09F07D1F8C90CBA9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		D78F5F48ABB9B18CD69E363A299E9700 /* NSString+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSString+iHAddition.m"; sourceTree = "<group>"; };
-		D9BE963825506A91F217BD9750E4F024 /* UITextField+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UITextField+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UITextField+iHAddition.h"; sourceTree = "<group>"; };
+		D577BBB248A003985F70C685B6C5E2AF /* iHSingletonCloud.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHSingletonCloud.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHSingletonCloud/iHSingletonCloud.m; sourceTree = "<group>"; };
+		D78A6A58D735E902D7B0E473E65C00C6 /* NSLocale+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLocale+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSLocale+iHAddition.h"; sourceTree = "<group>"; };
+		D892692F225543E7ADC6DB7F634876BC /* NSString+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSString+iHAddition.m"; sourceTree = "<group>"; };
 		D9E4EF8CCE8ED3622C2600A2CBA0CC9F /* libPods-IHakulaRequest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-IHakulaRequest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD9048E56F9E5732E3BD79E2F7313E43 /* UIImage+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIImage+iHAddition.m"; sourceTree = "<group>"; };
-		E26B86AD2F5211CE98CC8A045F8B71CE /* iHKits.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHKits.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Kits/iHKits.h; sourceTree = "<group>"; };
-		E7A7266420AB7E65506A39CCAB4516AC /* NSArray+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSArray+iHAddition.m"; sourceTree = "<group>"; };
-		E9B859BD771F67E07776922DE299D7E8 /* iHImgOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHImgOperation.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgOperation.h; sourceTree = "<group>"; };
+		DCE3AC48DAFA216E167653EE6F2B00AA /* CDataScanner_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CDataScanner_Extensions.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/CDataScanner_Extensions.m; sourceTree = "<group>"; };
+		DEF659A11F36CE014234A5CFD74F6DD3 /* iHDataArchiver.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHDataArchiver.m; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHDataArchiver.m; sourceTree = "<group>"; };
+		E4683E253EC755E40AE44201D07E1F38 /* IHakulaInfrastructure.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IHakulaInfrastructure.h; path = IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure.h; sourceTree = "<group>"; };
+		E5BD55449D7891D46D1E6B51D4B7895B /* CDataScanner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CDataScanner.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/CDataScanner.m; sourceTree = "<group>"; };
+		E8B7622BA18A76C6C8DEDA1F2B2090E5 /* iHImgCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHImgCache.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHImgCache.h; sourceTree = "<group>"; };
+		E95968681F5B43AFF9529E321F652642 /* NSDictionary_JSONExtensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NSDictionary_JSONExtensions.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/TouchJSON/Extensions/NSDictionary_JSONExtensions.h; sourceTree = "<group>"; };
 		ECD7A9F46C1541B60C3FE5587D9C9E69 /* Pods-IHakulaRequest-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-IHakulaRequest-acknowledgements.plist"; sourceTree = "<group>"; };
-		EDFCCB0D95AC046980C2BEEC0ACA3A2D /* iHNetworkMonitor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHNetworkMonitor.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHNetworkMonitor/iHNetworkMonitor.m; sourceTree = "<group>"; };
-		EFB5AF2B95CF86CD081989C49063A4C1 /* UIFont+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIFont+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIFont+iHAddition.h"; sourceTree = "<group>"; };
+		EE69B2C1FAA713F47703C691492E3E74 /* iHCacheCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHCacheCenter.h; path = IHakulaInfrastructure/IHakulaInfrastructure/DB/iHCacheCenter.h; sourceTree = "<group>"; };
+		EED326C751BCCC3055F9AF81364AD594 /* iHLog.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHLog.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLog.m; sourceTree = "<group>"; };
+		F05E3198D4D5FDCB4F098B468FA9FCFA /* iHLogManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHLogManager.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogManager.m; sourceTree = "<group>"; };
 		F0B3DE55C6FB692782C19AEB97B210B2 /* Pods-IHakulaRequestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-IHakulaRequestTests.release.xcconfig"; sourceTree = "<group>"; };
-		F0FED995167D4FD49D008C4A093834EC /* iHAdditions+Foundation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "iHAdditions+Foundation.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/iHAdditions+Foundation.h"; sourceTree = "<group>"; };
 		F136FD8C750979A98D6312CE8ECA1506 /* Reachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
-		F24E6E4F16CDC5DBD297E98E88271C23 /* IHakulaInfrastructure.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IHakulaInfrastructure.h; path = IHakulaInfrastructure/IHakulaInfrastructure/IHakulaInfrastructure.h; sourceTree = "<group>"; };
 		F256D4A4C0D7D100B3139BF5C6762A50 /* Pods-IHakulaRequestTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-IHakulaRequestTests-resources.sh"; sourceTree = "<group>"; };
+		F2795983701E3CBFE7BDE29F72346608 /* iHDebug.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHDebug.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHDebug/iHDebug.h; sourceTree = "<group>"; };
 		F30DA52C60D8B42F372B933D296828FD /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
-		F3C2DD6C909FA57BE21AFD44F17545F4 /* iHAlertView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHAlertView.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHAlertView/iHAlertView.m; sourceTree = "<group>"; };
-		F79D8051F59D8867559832C581ECCF86 /* NSArray+iHAddition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+iHAddition.h"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSArray+iHAddition.h"; sourceTree = "<group>"; };
-		F82B5E824B4367C5834DD91F633121F6 /* iHPubSub.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = iHPubSub.m; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHPubSub/iHPubSub.m; sourceTree = "<group>"; };
-		F9B8C2CCB03860F1BA099DCCCF445BB3 /* iHSingletonCloud.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHSingletonCloud.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHSingletonCloud/iHSingletonCloud.h; sourceTree = "<group>"; };
+		F3D3A6587205A5DB9A888091DF08E806 /* iHConf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHConf.h; path = IHakulaInfrastructure/IHakulaInfrastructure/iHConf.h; sourceTree = "<group>"; };
+		F3EBB5B754B6A4CCD285F5F04B59798B /* iHNetworkMonitor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHNetworkMonitor.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHNetworkMonitor/iHNetworkMonitor.h; sourceTree = "<group>"; };
+		F515BEA0892CEB255AD7FE55F03A3ED5 /* UIView+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/UIKit/UIView+iHAddition.m"; sourceTree = "<group>"; };
+		F5F79AFF09BF7AE27A43FC46767D116E /* iHLogCenter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = iHLogCenter.h; path = IHakulaInfrastructure/IHakulaInfrastructure/Tools/iHLog/iHLogCenter.h; sourceTree = "<group>"; };
+		F7746037E7E2CA20FFBD730D44E847F0 /* NSLocale+iHAddition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLocale+iHAddition.m"; path = "IHakulaInfrastructure/IHakulaInfrastructure/Additions/Foundation/NSLocale+iHAddition.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -291,6 +291,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		74A69A0EBC6004DF75706C2C98E3ABA9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DCC66AE68FD051F39D76C9F89F74691 /* Foundation.framework in Frameworks */,
+				7997FD6FEE19A0B97825624FCA299EB4 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		91E7163BC7B028C8D2732B25DB0E0182 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -300,26 +309,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FCAC15FEEC9753F05816FC66B6DFC5F0 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9E3CF86BEBED2EBB2036CF67F2B338E9 /* Foundation.framework in Frameworks */,
-				1569A463A50CD265D8683EB505B36D8F /* UIKit.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		0052C292EA05E975C11A55FAAA0A5A46 /* Kits */ = {
 			isa = PBXGroup;
 			children = (
-				7A446278504602E504A37293D821DF11 /* iHArithmeticKit.h */,
-				BC4017C36F0292E021516CC74B1A74F7 /* iHArithmeticKit.m */,
-				E26B86AD2F5211CE98CC8A045F8B71CE /* iHKits.h */,
-				D0C74064726E3780B10DC86E04BC76F6 /* iHValidationKit.h */,
-				4DFB6473B057E1CDED889E49B8BD6451 /* iHValidationKit.m */,
+				6E652B678B9A18364491524FD5D44BB6 /* iHArithmeticKit.h */,
+				B201879EF29FDAA57A0F54C2ADBA86E0 /* iHArithmeticKit.m */,
+				AF58A55D22B13E20666BB3F322A6AD4C /* iHKits.h */,
+				4C85C7D46ABCE3AC6A8C0BC2F312123C /* iHValidationKit.h */,
+				7D252BE3B99FCFBEB091E3B3ED371EEA /* iHValidationKit.m */,
 			);
 			name = Kits;
 			sourceTree = "<group>";
@@ -335,8 +335,8 @@
 		13346682BBAFEDDE524EB850707A7581 /* iHMemory */ = {
 			isa = PBXGroup;
 			children = (
-				52B2790538B9F342D4C5C7EFF421D8D4 /* iHMemory.h */,
-				46E9618ABE5D9D2187814EC37A27CE7F /* iHMemory.m */,
+				1F4F71484DA58E152F396534AEC0AAE5 /* iHMemory.h */,
+				A2C2A38193744E9E178F5499EE26A541 /* iHMemory.m */,
 			);
 			name = iHMemory;
 			sourceTree = "<group>";
@@ -344,8 +344,8 @@
 		18A9152820841D9C437F40167DCFC619 /* IHakulaInfrastructure */ = {
 			isa = PBXGroup;
 			children = (
-				F24E6E4F16CDC5DBD297E98E88271C23 /* IHakulaInfrastructure.h */,
-				0A8BA113321C4289EE255C2E63943F46 /* iHConf.h */,
+				E4683E253EC755E40AE44201D07E1F38 /* IHakulaInfrastructure.h */,
+				F3D3A6587205A5DB9A888091DF08E806 /* iHConf.h */,
 				C1DBDB909CC7611BCEA45FC63A93F6DE /* Additions */,
 				48B9473651DE4D4C1366C978F9332BD1 /* Common */,
 				CA31CCE2E9618E319E3094BB09ECB254 /* DB */,
@@ -359,8 +359,8 @@
 		1F06209781FB20999273CEB91D029A0A /* iHAlertView */ = {
 			isa = PBXGroup;
 			children = (
-				A6E0469E5E1E8EF13476F2A671A5111B /* iHAlertView.h */,
-				F3C2DD6C909FA57BE21AFD44F17545F4 /* iHAlertView.m */,
+				99057A5EA5369D490B31B7265432FA6B /* iHAlertView.h */,
+				5EB274D7E0D9E79EC819FA8A6F10896A /* iHAlertView.m */,
 			);
 			name = iHAlertView;
 			sourceTree = "<group>";
@@ -368,8 +368,8 @@
 		22F6FDAB05276E777A7CF057C71A9398 /* XMLParser */ = {
 			isa = PBXGroup;
 			children = (
-				28294A12D8A112175350DD5500186D3D /* XMLDictionary.h */,
-				755CD356F24FDCEA5ED50EBCE6750C6B /* XMLDictionary.m */,
+				8FC2B9B408E7E78E528319B92E1B79D1 /* XMLDictionary.h */,
+				B45797D25B621F926CBE82F79F5880CF /* XMLDictionary.m */,
 			);
 			name = XMLParser;
 			sourceTree = "<group>";
@@ -377,8 +377,8 @@
 		33078FD77F1C1F14BF40A8D31C9ABD60 /* iHPubSub */ = {
 			isa = PBXGroup;
 			children = (
-				AEBC4A166DEAAC9DDC160487FE4A6E55 /* iHPubSub.h */,
-				F82B5E824B4367C5834DD91F633121F6 /* iHPubSub.m */,
+				15EE5EF00DEBB92490AD6DAEBD761FEB /* iHPubSub.h */,
+				BD65BEE32C5FBFF4D77D0DDFDFA12862 /* iHPubSub.m */,
 			);
 			name = iHPubSub;
 			sourceTree = "<group>";
@@ -386,8 +386,8 @@
 		39A549FCC2E4083D13D95FAE58EF1CF7 /* iHNetworkMonitor */ = {
 			isa = PBXGroup;
 			children = (
-				4158EC7EEC86D2DDBE6D038839D3F14E /* iHNetworkMonitor.h */,
-				EDFCCB0D95AC046980C2BEEC0ACA3A2D /* iHNetworkMonitor.m */,
+				F3EBB5B754B6A4CCD285F5F04B59798B /* iHNetworkMonitor.h */,
+				58A23EA3FFD825113E3683045BCA1DC0 /* iHNetworkMonitor.m */,
 			);
 			name = iHNetworkMonitor;
 			sourceTree = "<group>";
@@ -395,10 +395,10 @@
 		48B9473651DE4D4C1366C978F9332BD1 /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				7AF1ADBFE1C4AE72B68CF10155CF3FF6 /* iHCommonFunctions.h */,
-				4A936511E69F48EDB5F94E55B1F18367 /* iHCommonFunctions.m */,
-				A6F1F49D7D8D0A7666DB3F632EB5296E /* iHCommonMacros.h */,
-				180E296B87C30AC034D493CE848AE1A2 /* iHCommons.h */,
+				4A9B7589EE59212FA8A4D5D2956521D0 /* iHCommonFunctions.h */,
+				8741ACC140BEB89FB9D836746F5775DD /* iHCommonFunctions.m */,
+				3BC55812E8623E456405D29FCBBCE591 /* iHCommonMacros.h */,
+				6C1D4EFB0DC8D7D4E83796AAE590DA9C /* iHCommons.h */,
 			);
 			name = Common;
 			sourceTree = "<group>";
@@ -407,8 +407,8 @@
 			isa = PBXGroup;
 			children = (
 				67259F3BDEF9A58F869AC8D47021B125 /* IHakulaInfrastructure.xcconfig */,
-				CA4ACA12A54DCD64CC33E80BF78BD624 /* IHakulaInfrastructure-Private.xcconfig */,
-				4823BC67F16687390DF774505B37735E /* IHakulaInfrastructure-dummy.m */,
+				7269EA0BDAAE76F1AB5A1B43681B3ACE /* IHakulaInfrastructure-Private.xcconfig */,
+				8AF6666AA6C95D254B3DB99BAE004EE8 /* IHakulaInfrastructure-dummy.m */,
 				4365249BF3672446CDE9A62BFAB6CBC9 /* IHakulaInfrastructure-prefix.pch */,
 			);
 			name = "Support Files";
@@ -418,9 +418,9 @@
 		4BC241A757B3CF8E205400B07E13984D /* iHEngine */ = {
 			isa = PBXGroup;
 			children = (
-				B0934C10B51DC365AD9DDF7BA7775006 /* conf.plist */,
-				5B479F35FBB2CEC302A25DAF3A595A96 /* iHEngine.h */,
-				136C77FEC2AE6F1A3B684B1D82D2DB42 /* iHEngine.m */,
+				3855D395C946C8BD275747B2CE966E53 /* conf.plist */,
+				B0C3339E5B03F85EAE6ED293352EC463 /* iHEngine.h */,
+				83F2DFD3E4CBDB55FDD1BED8D3B5FD17 /* iHEngine.m */,
 			);
 			name = iHEngine;
 			sourceTree = "<group>";
@@ -428,22 +428,22 @@
 		51A24846F3DE6BE4887D4C59C9BCC5B2 /* TouchJSON */ = {
 			isa = PBXGroup;
 			children = (
-				73600A9D6C0F5196480265AA79888C05 /* CDataScanner.h */,
-				1BD9764285451411FDFD99DC86AFC73E /* CDataScanner.m */,
-				7A58BE0B78E3C538828F057EFE2DA412 /* CDataScanner_Extensions.h */,
-				0225DAD06AD7DC6E5F1AA5BA8A5D7236 /* CDataScanner_Extensions.m */,
-				2CCF2A6119E4997027D4298553EF7297 /* CJSONDeserializer.h */,
-				29A057531EBBA89A6E906019D9127133 /* CJSONDeserializer.m */,
-				3489A16835AF0FFF832174DFF44073C3 /* CJSONScanner.h */,
-				0A8F55A4C414BC3A6A0978AEB2113E80 /* CJSONScanner.m */,
-				29A043853041B3C703B0B033D56F9B33 /* CJSONSerializer.h */,
-				18F1E4A4456640F7CFE7AB7484DAD94E /* CJSONSerializer.m */,
-				42647C45CD0968DA6034CD68FD12553F /* NSCharacterSet_Extensions.h */,
-				018DEE0B67DE7C22AEB8A33B60A6CA48 /* NSCharacterSet_Extensions.m */,
-				7D71E00C7DBD07FDEEC46CA2D0E38483 /* NSDictionary_JSONExtensions.h */,
-				7601F308F227DB42EDC5FE6FC1216380 /* NSDictionary_JSONExtensions.m */,
-				8DBB147B84D1B1DCEFDE2A49BCC6CD7F /* NSScanner_Extensions.h */,
-				349F2063519B2932DA14AF46B9AB3449 /* NSScanner_Extensions.m */,
+				C332C6A5EF2BA42FEAE9A2BA43CD4CE8 /* CDataScanner.h */,
+				E5BD55449D7891D46D1E6B51D4B7895B /* CDataScanner.m */,
+				CCA009BD446A0B4F81F1BFAC45A90FE5 /* CDataScanner_Extensions.h */,
+				DCE3AC48DAFA216E167653EE6F2B00AA /* CDataScanner_Extensions.m */,
+				083305C7005C5A6E0E1AA66FF573CC89 /* CJSONDeserializer.h */,
+				41E00BB4A41419754DBF0E22DBD20AB6 /* CJSONDeserializer.m */,
+				367B504E79AFFE23C13EE97F43E09E0A /* CJSONScanner.h */,
+				9D4D730FA531CDCF0DA275F2C781CF22 /* CJSONScanner.m */,
+				256F413F07515A7B66F966271A17C2C5 /* CJSONSerializer.h */,
+				7935DA448BBFB4D4B1E3351D96262A30 /* CJSONSerializer.m */,
+				9D8D96465B016F2AC8E96264C9CAFF71 /* NSCharacterSet_Extensions.h */,
+				CB2949877F165640AC969A9EA07F4BF0 /* NSCharacterSet_Extensions.m */,
+				E95968681F5B43AFF9529E321F652642 /* NSDictionary_JSONExtensions.h */,
+				3CE1D0BBE4F64424C6371CAC799E93D4 /* NSDictionary_JSONExtensions.m */,
+				37CABDAA8C4E6D91149FEDF190592880 /* NSScanner_Extensions.h */,
+				B76F2A35219A91611192DB2517AC0D31 /* NSScanner_Extensions.m */,
 			);
 			name = TouchJSON;
 			sourceTree = "<group>";
@@ -451,8 +451,8 @@
 		68E2506D079C2ABF2AF5ECCC6E1C39A5 /* iHImageCompresser */ = {
 			isa = PBXGroup;
 			children = (
-				3BB3F73030DA4581353E73ACAB6E5EE2 /* iHImageCompresser.h */,
-				6DBB4A782DD3A29AF1BC92BFAE191BEA /* iHImageCompresser.m */,
+				619A6473BF859642B3720D543136008B /* iHImageCompresser.h */,
+				338DC27EFE4234FFA60AAB4053111041 /* iHImageCompresser.m */,
 			);
 			name = iHImageCompresser;
 			sourceTree = "<group>";
@@ -460,7 +460,7 @@
 		6A946FE302DBF219FEF00D045036CC9F /* iHDebug */ = {
 			isa = PBXGroup;
 			children = (
-				ADA8104466065184F211CE7947E5EA46 /* iHDebug.h */,
+				F2795983701E3CBFE7BDE29F72346608 /* iHDebug.h */,
 			);
 			name = iHDebug;
 			sourceTree = "<group>";
@@ -480,12 +480,12 @@
 		7432BCE7A861463D05E8685937BE4096 /* iHLog */ = {
 			isa = PBXGroup;
 			children = (
-				19CAFAEF88848A810C5B8FBA41196DB2 /* iHLog.h */,
-				D2A1E876D7AB1514F783D6E5AA1F503A /* iHLog.m */,
-				7FFC2EF1049BC3ADD36226CD83414BC2 /* iHLogCenter.h */,
-				5CB19FFA17D3C418D6E93EB9B58755BA /* iHLogCenter.m */,
-				5D6BA7A76663DA6ED03C648DA3E74F7E /* iHLogManager.h */,
-				CE3F3793AF15D7C43E21520C4ADC8E87 /* iHLogManager.m */,
+				263C400F0CC043C7BD2C93FCA51BA93F /* iHLog.h */,
+				EED326C751BCCC3055F9AF81364AD594 /* iHLog.m */,
+				F5F79AFF09BF7AE27A43FC46767D116E /* iHLogCenter.h */,
+				6369725832B1D6EB9843765E98DBCFA4 /* iHLogCenter.m */,
+				28DBF1F72633900B4309E48F37A4647A /* iHLogManager.h */,
+				F05E3198D4D5FDCB4F098B468FA9FCFA /* iHLogManager.m */,
 			);
 			name = iHLog;
 			sourceTree = "<group>";
@@ -551,8 +551,8 @@
 		9BAE48BB8EFE98AEFF548C1047ACF6CA /* iHFileManager */ = {
 			isa = PBXGroup;
 			children = (
-				A99473C4B0E107A69250247222933BB1 /* iHFileManager.h */,
-				1F26DA2FE935824D878891B3DB779CE0 /* iHFileManager.m */,
+				561F3050211273CB38683A27EF1D8043 /* iHFileManager.h */,
+				CD657E49F914229A04AE4746CD5EDCEB /* iHFileManager.m */,
 			);
 			name = iHFileManager;
 			sourceTree = "<group>";
@@ -560,8 +560,8 @@
 		9FDC490F6399D6FDAF6D122294EB0ECB /* iHSingletonCloud */ = {
 			isa = PBXGroup;
 			children = (
-				F9B8C2CCB03860F1BA099DCCCF445BB3 /* iHSingletonCloud.h */,
-				7FA95319CBA7AB07D28A47F9C09C390F /* iHSingletonCloud.m */,
+				2DBCB4C9B1F963F2477AD5DC4DA74A1D /* iHSingletonCloud.h */,
+				D577BBB248A003985F70C685B6C5E2AF /* iHSingletonCloud.m */,
 			);
 			name = iHSingletonCloud;
 			sourceTree = "<group>";
@@ -571,7 +571,7 @@
 			children = (
 				3811A1ECE30883476F114E42572826EF /* Foundation.framework */,
 				F30DA52C60D8B42F372B933D296828FD /* SystemConfiguration.framework */,
-				D68D5C3746DC924C09F07D1F8C90CBA9 /* UIKit.framework */,
+				D20091092D04E4D105CC8357C935E60A /* UIKit.framework */,
 			);
 			name = iOS;
 			sourceTree = "<group>";
@@ -579,35 +579,35 @@
 		C1DBDB909CC7611BCEA45FC63A93F6DE /* Additions */ = {
 			isa = PBXGroup;
 			children = (
-				F79D8051F59D8867559832C581ECCF86 /* NSArray+iHAddition.h */,
-				E7A7266420AB7E65506A39CCAB4516AC /* NSArray+iHAddition.m */,
-				9E120D4F3A56898617951BE41BD34E7A /* NSDate+iHAddition.h */,
-				3D44611442E4E6351A2FCC508CE3F809 /* NSDate+iHAddition.m */,
-				1CE90FF780F6FC8B856E67086C2D5795 /* NSLocale+iHAddition.h */,
-				5D0B14CBF2A34A3394F09F89776DA406 /* NSLocale+iHAddition.m */,
-				AAAF4B78AF211ED6B9DA001A06B5898F /* NSMutableArray+iHAddition.h */,
-				59778C3F70A5709E638A6979ECE39C23 /* NSMutableArray+iHAddition.m */,
-				7B9ED30B94F220DB23672C2D56F3B579 /* NSString+iHAddition.h */,
-				D78F5F48ABB9B18CD69E363A299E9700 /* NSString+iHAddition.m */,
-				5EF4CCA940E43AB6C52030C6AA3FCF7C /* UIAlertView+iHAddition.h */,
-				90A8BF3113409C722A6BDB00AA022294 /* UIAlertView+iHAddition.m */,
-				33C2F68FC6D2CCCE287316759422C224 /* UIButton+iHAddition.h */,
-				78C8BF59C51EFA8CC837BC0BC8DFB21F /* UIButton+iHAddition.m */,
-				1A01F999BB854CF91B4C880D0E3BFCA4 /* UIDevice+iHAddition.h */,
-				8589896CECCB6C3F0B2F54AD9C7A61F8 /* UIDevice+iHAddition.m */,
-				EFB5AF2B95CF86CD081989C49063A4C1 /* UIFont+iHAddition.h */,
-				BB917D035C9354C7C11A363F01B91949 /* UIFont+iHAddition.m */,
-				C9E24CE4BCB9DDB9111C283EC2761CF7 /* UIImage+iHAddition.h */,
-				DD9048E56F9E5732E3BD79E2F7313E43 /* UIImage+iHAddition.m */,
-				4BE4543BFC34732DBBC71D8C032E7965 /* UILabel+iHAddition.h */,
-				80FB4BEF5DA3B12C0BB2603BF62F7A92 /* UILabel+iHAddition.m */,
-				D9BE963825506A91F217BD9750E4F024 /* UITextField+iHAddition.h */,
-				6BEE3E5A0EED2467E1D35B4E8EC675C4 /* UITextField+iHAddition.m */,
-				97651560269B5D133C355535F51129CF /* UIView+iHAddition.h */,
-				79D253040E5B965A0F930199F66A004D /* UIView+iHAddition.m */,
-				D19237908BC0A22D066719DCE67BD67B /* iHAdditions.h */,
-				F0FED995167D4FD49D008C4A093834EC /* iHAdditions+Foundation.h */,
-				2BA8BE6586AD5B3606B1B71B9AF53281 /* iHAdditions+UIKit.h */,
+				C2D77EA1593E6946A577450F21BEDC2A /* NSArray+iHAddition.h */,
+				0CE8CFC55B263DBB72DECF924FE1293C /* NSArray+iHAddition.m */,
+				7585CC66743D135D8F25944324CE34EB /* NSDate+iHAddition.h */,
+				88A1BF14D7F9B6EAE0A0A83844FD2858 /* NSDate+iHAddition.m */,
+				D78A6A58D735E902D7B0E473E65C00C6 /* NSLocale+iHAddition.h */,
+				F7746037E7E2CA20FFBD730D44E847F0 /* NSLocale+iHAddition.m */,
+				9449D0872FA2FBB883BEEBFF6E27F838 /* NSMutableArray+iHAddition.h */,
+				14A16FC78D08714A41367E5ABA0AA3E6 /* NSMutableArray+iHAddition.m */,
+				16A567686D8DC09F9700E2962FEB99F9 /* NSString+iHAddition.h */,
+				D892692F225543E7ADC6DB7F634876BC /* NSString+iHAddition.m */,
+				C7819057E2AD1CF85499670C0BE86C61 /* UIAlertView+iHAddition.h */,
+				735BF868411D91FDF53C239044BE8199 /* UIAlertView+iHAddition.m */,
+				0D8B2FD7CB4FD59140995A8B03469870 /* UIButton+iHAddition.h */,
+				10D0F1E9C27E9B7C410914AD849DC5C2 /* UIButton+iHAddition.m */,
+				48991F870E47A9944A7580EA854D015B /* UIDevice+iHAddition.h */,
+				09D6E0C1178D36AA7402C30A56C55D9F /* UIDevice+iHAddition.m */,
+				3A755204A642CEF52E648404758692F5 /* UIFont+iHAddition.h */,
+				1C165D8AAC0A78676760AA0785E40C76 /* UIFont+iHAddition.m */,
+				CA532927E67FFA33F50257FC3628057E /* UIImage+iHAddition.h */,
+				8D93ED75861B9AD1360CD0F76BCE3B0D /* UIImage+iHAddition.m */,
+				9CAE8AB77CE142C4CD6F4BFC001E5C4E /* UILabel+iHAddition.h */,
+				CB24955393D554DDF90C7FB59C978F74 /* UILabel+iHAddition.m */,
+				25B9C086E0C8BBFE9F9E54988D34FA39 /* UITextField+iHAddition.h */,
+				2D94E04F4AEDB9FCD04EB5F9D2AC29F9 /* UITextField+iHAddition.m */,
+				BDA2768D7FDD9C07E41959447B9F6121 /* UIView+iHAddition.h */,
+				F515BEA0892CEB255AD7FE55F03A3ED5 /* UIView+iHAddition.m */,
+				2B60F5AA81193431E060B874A1A063D5 /* iHAdditions.h */,
+				40E76F319392B743BBC8BCCD29962161 /* iHAdditions+Foundation.h */,
+				96947D0131E5BB89D287C8FCE54AAF57 /* iHAdditions+UIKit.h */,
 			);
 			name = Additions;
 			sourceTree = "<group>";
@@ -615,15 +615,15 @@
 		CA31CCE2E9618E319E3094BB09ECB254 /* DB */ = {
 			isa = PBXGroup;
 			children = (
-				6473140DCA600AFE0C43FBC5E4EA284A /* iHCacheCenter.h */,
-				A453255AF0E7CA31BB13262E5691D5B0 /* iHCacheCenter.m */,
-				13B92747ED59C98D9FCEDB9B6F275735 /* iHCacheDelegate.h */,
-				222939E1C8364BC8C7010753E9CC9876 /* iHDataArchiver.h */,
-				4AB1E3088F4036ECE138C9EC824509BC /* iHDataArchiver.m */,
-				5E919764B67F9873CC7397ED103DECED /* iHImgCache.h */,
-				5000DC3BEC3C8303609F38BFA7354935 /* iHImgCache.m */,
-				E9B859BD771F67E07776922DE299D7E8 /* iHImgOperation.h */,
-				0828CF644D97BB560491307B0452AC11 /* iHImgOperation.m */,
+				EE69B2C1FAA713F47703C691492E3E74 /* iHCacheCenter.h */,
+				2406B1B9FFF4BAB762F92C63838F2ED9 /* iHCacheCenter.m */,
+				2708DB046854F9FB0ABFAB1123732B1C /* iHCacheDelegate.h */,
+				ABB31CF09599F865564CAE4717B90A65 /* iHDataArchiver.h */,
+				DEF659A11F36CE014234A5CFD74F6DD3 /* iHDataArchiver.m */,
+				E8B7622BA18A76C6C8DEDA1F2B2090E5 /* iHImgCache.h */,
+				BBB9ADA7A178F9B8A3C07AA038AF71AE /* iHImgCache.m */,
+				BE244871F01B04425B7B94EBE1981536 /* iHImgOperation.h */,
+				7354081733C9794D97B98A32BE450556 /* iHImgOperation.m */,
 			);
 			name = DB;
 			sourceTree = "<group>";
@@ -631,7 +631,7 @@
 		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3390CCE665D382C160C6C91C25AED04F /* libIHakulaInfrastructure.a */,
+				1FA18056676DCB1BDD7414D212375783 /* libIHakulaInfrastructure.a */,
 				D9E4EF8CCE8ED3622C2600A2CBA0CC9F /* libPods-IHakulaRequest.a */,
 				B9A4010AAE0F65A3E548DD72EEEC5FF7 /* libPods-IHakulaRequestTests.a */,
 				6569601CFF094BF7A8C021D1F9AE8FDB /* libReachability.a */,
@@ -670,60 +670,60 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		D3A8E3B8489DD330FC050F864940FDBF /* Headers */ = {
+		CE3A4E38E2BDB25AAC1F00DCC93DED06 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C4B5BAD7A766FE7CEAECC8D4298B416 /* CDataScanner.h in Headers */,
-				83393C70D38008A926032D6A283B9524 /* CDataScanner_Extensions.h in Headers */,
-				42576E1AA7D169AE62A8E8B7BE5F1386 /* CJSONDeserializer.h in Headers */,
-				1C620BC37ECE8264B3E9AD5520715B63 /* CJSONScanner.h in Headers */,
-				C5F0C783FDCD1AE33014FCD194587795 /* CJSONSerializer.h in Headers */,
-				535B7E5ABB86380D51D74F513C88C5D2 /* IHakulaInfrastructure.h in Headers */,
-				68779DC89AF5D00DD2EDA7D3C5A8A70F /* NSArray+iHAddition.h in Headers */,
-				4AEA15B267DB9AB595B8F6EE5206D1A4 /* NSCharacterSet_Extensions.h in Headers */,
-				A1A222327C4ED8532F923AA13DC14918 /* NSDate+iHAddition.h in Headers */,
-				48061701C4127CE5388ED790F0D80131 /* NSDictionary_JSONExtensions.h in Headers */,
-				D19A90BE1A6389C1F2B75A265C2349EC /* NSLocale+iHAddition.h in Headers */,
-				1F9CC2A73B43DBCFD2A4156D256AF630 /* NSMutableArray+iHAddition.h in Headers */,
-				7BE6109BFB041031A5E8687B27C4B56C /* NSScanner_Extensions.h in Headers */,
-				E57834ABDD7D3B60003D6F20B9A27883 /* NSString+iHAddition.h in Headers */,
-				FFC01BF7D742DD89BD5A1FC33561D661 /* UIAlertView+iHAddition.h in Headers */,
-				0556A57B912D3709342782105C095FF7 /* UIButton+iHAddition.h in Headers */,
-				053BB81C50E19AB88C69F48266695EC2 /* UIDevice+iHAddition.h in Headers */,
-				B4E8E64E89D31AF2CFD31D5856997D3D /* UIFont+iHAddition.h in Headers */,
-				935C3474E5174D6E130EAEF243223820 /* UIImage+iHAddition.h in Headers */,
-				FF0867C1E55529C2EEA4D681F3ECE152 /* UILabel+iHAddition.h in Headers */,
-				921DD31BCB91771EE7E1BAE5FBC826E3 /* UITextField+iHAddition.h in Headers */,
-				CA9252FD914E40EE76EEB21FE68C178D /* UIView+iHAddition.h in Headers */,
-				69D0AFFD6CE2A9E4BFB1A0C5C2A00711 /* XMLDictionary.h in Headers */,
-				EFAA22145B301E1924559B9B424AF8C7 /* iHAdditions+Foundation.h in Headers */,
-				F98D59F6A93BFAE1270CE4CDCF947A89 /* iHAdditions+UIKit.h in Headers */,
-				090B6CC52B9CB8BECA40AA21DA9851FB /* iHAdditions.h in Headers */,
-				54B734B62FB5DCA706B1E3A495367031 /* iHAlertView.h in Headers */,
-				4188D7A5A351E1C76137CA555377DF1E /* iHArithmeticKit.h in Headers */,
-				C9DD4E1F9DB78C3ECDFCBBA5065BDF9B /* iHCacheCenter.h in Headers */,
-				9D72448B2E373EF59735966DD3B6A1D7 /* iHCacheDelegate.h in Headers */,
-				285DE020F724A2BEF45BB76E4489D5E9 /* iHCommonFunctions.h in Headers */,
-				EBDB6D9EAB40135C37E92E72C9B63AE6 /* iHCommonMacros.h in Headers */,
-				3548F278A2BD175B68361E86182ADAD0 /* iHCommons.h in Headers */,
-				CF791CFFE84E272E3A296296FB2D39AC /* iHConf.h in Headers */,
-				88F5D2FC9FDC06521949483E7A3F8CE5 /* iHDataArchiver.h in Headers */,
-				BD5C6F889DDA427F8BB3068696350D29 /* iHDebug.h in Headers */,
-				48DDA6A02FA672E01738000D5AC4059C /* iHEngine.h in Headers */,
-				33DAB18A61A46A53315C1B8E911A17A5 /* iHFileManager.h in Headers */,
-				1CB032AE35D16EB4E646DB5AEEBA9391 /* iHImageCompresser.h in Headers */,
-				A3D2275BA1BA5E0F6FC20CDE7E1A9ABB /* iHImgCache.h in Headers */,
-				EE0671EF9F88D7AB6AC49A1A1E03E25E /* iHImgOperation.h in Headers */,
-				CE210B434FD00FDC5728482577FDA0F1 /* iHKits.h in Headers */,
-				A487C4E31D11D8D3685D68F18CFF2CC9 /* iHLog.h in Headers */,
-				4C89A81113095CB0307B9285C8C9A866 /* iHLogCenter.h in Headers */,
-				CF8C34EEA8CF7C615177A2AE06C0F575 /* iHLogManager.h in Headers */,
-				66CD117BD898F64046AF20A789DD4E59 /* iHMemory.h in Headers */,
-				BB52FFCBF79C98F2EC1A9C8D7CBD1F34 /* iHNetworkMonitor.h in Headers */,
-				E644B314E5BE338E6A056BAE4CE34EBD /* iHPubSub.h in Headers */,
-				F9E3F6A79319C5D78B87BD5F6BF48A74 /* iHSingletonCloud.h in Headers */,
-				8609F26EBBE7BC1EC74E2FB489744DD9 /* iHValidationKit.h in Headers */,
+				368E2A1286558D7D183C21E113A82EBD /* CDataScanner.h in Headers */,
+				89E51FB880DB5B3C07A6D6971C215112 /* CDataScanner_Extensions.h in Headers */,
+				3B4FCB92E937AEB29073780DE3ED376E /* CJSONDeserializer.h in Headers */,
+				4E1BB1F159DC5A79046509DC822FE61C /* CJSONScanner.h in Headers */,
+				C2A04725F3173A770C3C93CAFF0DE8E4 /* CJSONSerializer.h in Headers */,
+				BCD57BEB956343A53805200B7656252E /* IHakulaInfrastructure.h in Headers */,
+				E22B4384F9F233428E6385E081A3DFB7 /* NSArray+iHAddition.h in Headers */,
+				D7AE4D8859455B3F6679BB9CC12CC943 /* NSCharacterSet_Extensions.h in Headers */,
+				6F58B7072830A8BE80461211F65CAA8C /* NSDate+iHAddition.h in Headers */,
+				0F8B9DECCC3C01613DE435FE70E30648 /* NSDictionary_JSONExtensions.h in Headers */,
+				E8A15246AA7ECE82FB00B9A641658B1A /* NSLocale+iHAddition.h in Headers */,
+				980ADDF2CC8E907D66E9EC41B5223405 /* NSMutableArray+iHAddition.h in Headers */,
+				C1EA7CA1B57A49B5B774443B253433AF /* NSScanner_Extensions.h in Headers */,
+				1AF77BCD756B4FC36E1E7CA3147E9755 /* NSString+iHAddition.h in Headers */,
+				AAE7B0F3D61DB997C548ED009CCD3826 /* UIAlertView+iHAddition.h in Headers */,
+				D4D64FC32E03C97D8C22760ED8391CBC /* UIButton+iHAddition.h in Headers */,
+				1B87B4E40CA244FF6DD9330E3CDEC268 /* UIDevice+iHAddition.h in Headers */,
+				DB9EAE75A6772E287B49F5653B2515D7 /* UIFont+iHAddition.h in Headers */,
+				5D28922BAC2AD59DD9B1CDD8D6064980 /* UIImage+iHAddition.h in Headers */,
+				8F25FAFDF977E369CB54F30FB3E655F2 /* UILabel+iHAddition.h in Headers */,
+				2BC57F44249A38D73FB8221AC1C8A715 /* UITextField+iHAddition.h in Headers */,
+				58F8F0833A67E2597A3F08C7DF99C12C /* UIView+iHAddition.h in Headers */,
+				87F42317CC7B242EB67B0B15A13EA3E7 /* XMLDictionary.h in Headers */,
+				89FBC3C7705454133AD27FD379251C5B /* iHAdditions+Foundation.h in Headers */,
+				823E590CF3AA77B835D953858FC332B9 /* iHAdditions+UIKit.h in Headers */,
+				D786E685A13224F1A2945ED0FEC919D9 /* iHAdditions.h in Headers */,
+				0B8CAB1765CE36908F5F76748B719078 /* iHAlertView.h in Headers */,
+				C30CF0B56A66C23561B6453361E83E79 /* iHArithmeticKit.h in Headers */,
+				75A7F477EE92A7FF17DEF5B1C3CAFC38 /* iHCacheCenter.h in Headers */,
+				466A64A31E87DF83BE25F776C060F4E5 /* iHCacheDelegate.h in Headers */,
+				A151C213062CCA928D39B50E0CD750D0 /* iHCommonFunctions.h in Headers */,
+				7B931F5CE86A29786F1C0EB87C24FE7A /* iHCommonMacros.h in Headers */,
+				B41A7325D1A5C2EFDF631B173FEC3F86 /* iHCommons.h in Headers */,
+				3A47313ADD2E550A9814E3FFC5881E22 /* iHConf.h in Headers */,
+				EEB066F7C6DE1C8BA4D2ECE0826EF1DC /* iHDataArchiver.h in Headers */,
+				E7C6A1396119402F6FDB3AC61AA6A42F /* iHDebug.h in Headers */,
+				B87A1FA07B60D6B912BA2FC375E17ED0 /* iHEngine.h in Headers */,
+				D05A3B02C080963445FBCE604B47FD85 /* iHFileManager.h in Headers */,
+				CDD35AD45319BD9A14EB63393F30D1B4 /* iHImageCompresser.h in Headers */,
+				35E07DDDC815BB10D69B7E7419689604 /* iHImgCache.h in Headers */,
+				04CAE2F318319A4AE331F28DDDB318D2 /* iHImgOperation.h in Headers */,
+				24D4F92F66948F170480084F7A7F9E67 /* iHKits.h in Headers */,
+				74812871CF56A9CED1BBB49D9847EE4A /* iHLog.h in Headers */,
+				901E42403922FF4F7425713F39B8FC72 /* iHLogCenter.h in Headers */,
+				C314D62EE1ACE199EB73FCFABB95C94E /* iHLogManager.h in Headers */,
+				F0511E60A35EE16BA3C106440DCDDF63 /* iHMemory.h in Headers */,
+				A17DD92210564E5DAAAE6A2075984062 /* iHNetworkMonitor.h in Headers */,
+				67F36A48C536B288A4BA3B369BA20DAD /* iHPubSub.h in Headers */,
+				316F6D4183BF5C05138DE4B8958DB9E5 /* iHSingletonCloud.h in Headers */,
+				AAC39F15EC96B1128A967A679B0E0E15 /* iHValidationKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -765,30 +765,30 @@
 			buildRules = (
 			);
 			dependencies = (
-				BBB419C40E76F582725FDBB7B070F6A7 /* PBXTargetDependency */,
-				E3355144002C406C894C7D08E89848BB /* PBXTargetDependency */,
+				DC11835DB84EB1320759FD445F1E8A96 /* PBXTargetDependency */,
+				0359192A76F47CCD6CABB677C7F545C7 /* PBXTargetDependency */,
 			);
 			name = "Pods-IHakulaRequestTests";
 			productName = "Pods-IHakulaRequestTests";
 			productReference = B9A4010AAE0F65A3E548DD72EEEC5FF7 /* libPods-IHakulaRequestTests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		A0C2D62A49D17BD72B6EA969090CDCD5 /* IHakulaInfrastructure */ = {
+		3C94F2A5FB10E86640A40A831663EF98 /* IHakulaInfrastructure */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 323A3BBA3EFFFD480E4E2D1FE8E99BA2 /* Build configuration list for PBXNativeTarget "IHakulaInfrastructure" */;
+			buildConfigurationList = 0C3F1DED3084BAD71B7E5F586A6F20A8 /* Build configuration list for PBXNativeTarget "IHakulaInfrastructure" */;
 			buildPhases = (
-				8B27086E1353DA992A339277386EE157 /* Sources */,
-				FCAC15FEEC9753F05816FC66B6DFC5F0 /* Frameworks */,
-				D3A8E3B8489DD330FC050F864940FDBF /* Headers */,
+				83ED9554DBC1160B1207BF3891651942 /* Sources */,
+				74A69A0EBC6004DF75706C2C98E3ABA9 /* Frameworks */,
+				CE3A4E38E2BDB25AAC1F00DCC93DED06 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				306BE42B1B4EE8CD40D356753CD30F61 /* PBXTargetDependency */,
+				BB5EA67BE267A69FFBDCA25F88E68215 /* PBXTargetDependency */,
 			);
 			name = IHakulaInfrastructure;
 			productName = IHakulaInfrastructure;
-			productReference = 3390CCE665D382C160C6C91C25AED04F /* libIHakulaInfrastructure.a */;
+			productReference = 1FA18056676DCB1BDD7414D212375783 /* libIHakulaInfrastructure.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		B17562C62BF1874AA463B373F0B56FFD /* Pods-IHakulaRequest */ = {
@@ -801,8 +801,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				9482D887F35A1D8CBF4B1F2CA0DFE5C0 /* PBXTargetDependency */,
-				9DEC9B66C2D220DD86D764C05E02CE0D /* PBXTargetDependency */,
+				DF511F902EB4BD1E1DB229C1A22BC2DF /* PBXTargetDependency */,
+				3653B5D1D19D680B883153AE58692179 /* PBXTargetDependency */,
 			);
 			name = "Pods-IHakulaRequest";
 			productName = "Pods-IHakulaRequest";
@@ -830,7 +830,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A0C2D62A49D17BD72B6EA969090CDCD5 /* IHakulaInfrastructure */,
+				3C94F2A5FB10E86640A40A831663EF98 /* IHakulaInfrastructure */,
 				B17562C62BF1874AA463B373F0B56FFD /* Pods-IHakulaRequest */,
 				23A696348371715FA0266C989805C3A9 /* Pods-IHakulaRequestTests */,
 				1893DE70459B9C5430E1E53597BF9817 /* Reachability */,
@@ -856,52 +856,52 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8B27086E1353DA992A339277386EE157 /* Sources */ = {
+		83ED9554DBC1160B1207BF3891651942 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27D3C6B6DFADA2E4B07770420127EBDF /* CDataScanner.m in Sources */,
-				BB1F1EC4B24F10156BD836D79FB89395 /* CDataScanner_Extensions.m in Sources */,
-				B63077D696A22AE97A9443387652E6C3 /* CJSONDeserializer.m in Sources */,
-				9AFFDD112F3E9F5154E92E95C59C4C2E /* CJSONScanner.m in Sources */,
-				498411C6C5A638570F10A159C81E938B /* CJSONSerializer.m in Sources */,
-				605D9FE3E29BE5C8E56B76EB334AE958 /* IHakulaInfrastructure-dummy.m in Sources */,
-				E6ACC0316F68E775DF55695D019A0EE2 /* NSArray+iHAddition.m in Sources */,
-				FA22DE50F96CC442F760D56C02F7431F /* NSCharacterSet_Extensions.m in Sources */,
-				5F2059315230966664F009C49B7DC404 /* NSDate+iHAddition.m in Sources */,
-				A1E1AC514875DDE2CF717713543AD069 /* NSDictionary_JSONExtensions.m in Sources */,
-				04F0AFB7C007547EDC008F72C7D38256 /* NSLocale+iHAddition.m in Sources */,
-				285CD656506719107DC195909A90BF9C /* NSMutableArray+iHAddition.m in Sources */,
-				EFC23BB7FBA9271DC0DF161E3EAF901C /* NSScanner_Extensions.m in Sources */,
-				0586FBBD1F43942830C7599CC65E972E /* NSString+iHAddition.m in Sources */,
-				A87DAB84B51A851EEC1D34ACEFCEE0F2 /* UIAlertView+iHAddition.m in Sources */,
-				F7F1912F13025189D4D52FC841F59F3A /* UIButton+iHAddition.m in Sources */,
-				10CF50CC8A4219CD606FDC12B38F1A6D /* UIDevice+iHAddition.m in Sources */,
-				EFB00AB69912D912F97D0F4E154D8924 /* UIFont+iHAddition.m in Sources */,
-				B15ACC8D2A41A923B05F8613E045CB0C /* UIImage+iHAddition.m in Sources */,
-				7DA599DA6F0F0DC1C7FA3544B1CCF022 /* UILabel+iHAddition.m in Sources */,
-				C126CA0F5391285C1F227EF808299738 /* UITextField+iHAddition.m in Sources */,
-				C7E7E68F2EA10AFACA1752678AB30950 /* UIView+iHAddition.m in Sources */,
-				C55143C777AAA49475BFB4BE65683B4B /* XMLDictionary.m in Sources */,
-				BD1349C9C5DC9567A2B817D5CD5C0814 /* conf.plist in Sources */,
-				15035A55F2157E3C5D983D0D1616DFE7 /* iHAlertView.m in Sources */,
-				531C1449D981DDCF4E910C65B1754908 /* iHArithmeticKit.m in Sources */,
-				6D5856E011BC7F39B117B88FCE728050 /* iHCacheCenter.m in Sources */,
-				46D84EDA52783BA795556D3746A9C9F8 /* iHCommonFunctions.m in Sources */,
-				84CE7AC02B79FB3A59FD5A96AF2EF892 /* iHDataArchiver.m in Sources */,
-				3562A9324885E39E576296E2C490338C /* iHEngine.m in Sources */,
-				FF89BEEA4F13079D887A72756A193564 /* iHFileManager.m in Sources */,
-				09C6D28DE939A9A094D95EEFB9EBA5C5 /* iHImageCompresser.m in Sources */,
-				3C08C7CEBACE812A4467CD21FCCC01D9 /* iHImgCache.m in Sources */,
-				B3553903BA184756DDC6C4C2F0A85B81 /* iHImgOperation.m in Sources */,
-				BFF15FA1E2C68E974B549EB3E512ECEB /* iHLog.m in Sources */,
-				573A57FD53596C5D9BDA05A30081AF90 /* iHLogCenter.m in Sources */,
-				F107AC987EE3C13D21C2843FC4837283 /* iHLogManager.m in Sources */,
-				52121D87DB3807BD28EC620AD547383A /* iHMemory.m in Sources */,
-				7C0AD9DC893771AB507A2EE23866DE9B /* iHNetworkMonitor.m in Sources */,
-				FB2EACCC22DF18964485ABDCB786C5E2 /* iHPubSub.m in Sources */,
-				3CD7AC2204C2CAEDCFFBB5F120A186E9 /* iHSingletonCloud.m in Sources */,
-				03469E7ABEFB176ECA49F60DE9E9057B /* iHValidationKit.m in Sources */,
+				ED4CD2192B436AFF91131216B8A4358A /* CDataScanner.m in Sources */,
+				16085CF27AF858D3B4EE3CDCA5ECFBE5 /* CDataScanner_Extensions.m in Sources */,
+				615B1F2F81A7D6AF42604291684EE406 /* CJSONDeserializer.m in Sources */,
+				66853036A9BA74D4C6796BACB1D94061 /* CJSONScanner.m in Sources */,
+				7BEE88111DDA305AC0C4F4B2D77D75C1 /* CJSONSerializer.m in Sources */,
+				B492DAA391F1B95C81805CB433FD0CCA /* IHakulaInfrastructure-dummy.m in Sources */,
+				7E5B300F26E65136EF1135EB9E61590B /* NSArray+iHAddition.m in Sources */,
+				D06D229BBADAE692562F5F9CBF46B38D /* NSCharacterSet_Extensions.m in Sources */,
+				F59EB16F51E546D1F0842ADBEFA4356A /* NSDate+iHAddition.m in Sources */,
+				A71BC01BC90646D2CACC319440F104BC /* NSDictionary_JSONExtensions.m in Sources */,
+				5E92A246AC77F077CBF7213C1CEBC196 /* NSLocale+iHAddition.m in Sources */,
+				27C17D689574F84C737DD47C01E44436 /* NSMutableArray+iHAddition.m in Sources */,
+				CDD564843E6896C5E99BF91EB8340368 /* NSScanner_Extensions.m in Sources */,
+				F22832B77F63E531599E8EB983671F13 /* NSString+iHAddition.m in Sources */,
+				7A9D565335E4AFCA93EE1F6269C34206 /* UIAlertView+iHAddition.m in Sources */,
+				83E3FA94E654F477FB6CA2728E8F03D7 /* UIButton+iHAddition.m in Sources */,
+				3E09A6D661E9C9615821C62C16E7A05A /* UIDevice+iHAddition.m in Sources */,
+				69773DD6063806E237AC29FD158F6778 /* UIFont+iHAddition.m in Sources */,
+				DC6CFCAADE88563BFB410BEA08C8E95C /* UIImage+iHAddition.m in Sources */,
+				5C518C6B72929421A3A3A9536B315494 /* UILabel+iHAddition.m in Sources */,
+				B8DC6FF50F8082389970A3419AEFC471 /* UITextField+iHAddition.m in Sources */,
+				1D95ADD047D35DF9317E419C660C2D10 /* UIView+iHAddition.m in Sources */,
+				815047F5141CC51D6F79FDD4788C5193 /* XMLDictionary.m in Sources */,
+				AB0B2710DB3D428420FF289AE9CB2ABC /* conf.plist in Sources */,
+				C9653A188AFFB2701DEAA9EF398CB619 /* iHAlertView.m in Sources */,
+				DCD7D29EE6A337EB0652CC35C1A6B754 /* iHArithmeticKit.m in Sources */,
+				E56D74E954A577395B79413B5E75F64F /* iHCacheCenter.m in Sources */,
+				C26BD9FB0CC446C2633E40039AC6C140 /* iHCommonFunctions.m in Sources */,
+				477CAD2769898088E4B9AAC65034BDD7 /* iHDataArchiver.m in Sources */,
+				4451B8738AB36F00E9F797B8374900AD /* iHEngine.m in Sources */,
+				CCFC94244D76F30E39C8C64FAF3DA68C /* iHFileManager.m in Sources */,
+				5BE695DE24FDF78C57C1221B70090D71 /* iHImageCompresser.m in Sources */,
+				1C5E8A64D196BCB75649230D3B0C13D8 /* iHImgCache.m in Sources */,
+				44884451EA3DCC06817D7E866DCC08BF /* iHImgOperation.m in Sources */,
+				6F6F3798F3DD0ADBD9827F13803ED3B0 /* iHLog.m in Sources */,
+				7E5DE04DDF95D653478BC00784501D89 /* iHLogCenter.m in Sources */,
+				B8DC74EC072D00547077CCC2850C087A /* iHLogManager.m in Sources */,
+				BCD55836C26DC923F0E64444E65DAB64 /* iHMemory.m in Sources */,
+				0BC93792DE579085199916DCF09628C2 /* iHNetworkMonitor.m in Sources */,
+				630D7A016BE3668C5518C9CD42B4A0C6 /* iHPubSub.m in Sources */,
+				08D0CCFDD0CC30BD2EEEAF9C8663D7F8 /* iHSingletonCloud.m in Sources */,
+				12B457901F9E8AFF55859E0059CF1511 /* iHValidationKit.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -916,35 +916,35 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		306BE42B1B4EE8CD40D356753CD30F61 /* PBXTargetDependency */ = {
+		0359192A76F47CCD6CABB677C7F545C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Reachability;
 			target = 1893DE70459B9C5430E1E53597BF9817 /* Reachability */;
-			targetProxy = 8181967DA12CF7790E49EDF7332B480F /* PBXContainerItemProxy */;
+			targetProxy = 152D561342ED389854B09502F21B631C /* PBXContainerItemProxy */;
 		};
-		9482D887F35A1D8CBF4B1F2CA0DFE5C0 /* PBXTargetDependency */ = {
+		3653B5D1D19D680B883153AE58692179 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Reachability;
+			target = 1893DE70459B9C5430E1E53597BF9817 /* Reachability */;
+			targetProxy = C20776C3F07BAC01670BFDE073740E89 /* PBXContainerItemProxy */;
+		};
+		BB5EA67BE267A69FFBDCA25F88E68215 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Reachability;
+			target = 1893DE70459B9C5430E1E53597BF9817 /* Reachability */;
+			targetProxy = C6CB5EF48F585FBFAF0A2E2134B77D41 /* PBXContainerItemProxy */;
+		};
+		DC11835DB84EB1320759FD445F1E8A96 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = IHakulaInfrastructure;
-			target = A0C2D62A49D17BD72B6EA969090CDCD5 /* IHakulaInfrastructure */;
-			targetProxy = C27DF956FB5B0A9A9F8CC2CA21838A82 /* PBXContainerItemProxy */;
+			target = 3C94F2A5FB10E86640A40A831663EF98 /* IHakulaInfrastructure */;
+			targetProxy = 73D12BA621E4F568DB9D5C8DB700CC26 /* PBXContainerItemProxy */;
 		};
-		9DEC9B66C2D220DD86D764C05E02CE0D /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Reachability;
-			target = 1893DE70459B9C5430E1E53597BF9817 /* Reachability */;
-			targetProxy = 30DD6B8F39EED69B835BC233410713F5 /* PBXContainerItemProxy */;
-		};
-		BBB419C40E76F582725FDBB7B070F6A7 /* PBXTargetDependency */ = {
+		DF511F902EB4BD1E1DB229C1A22BC2DF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = IHakulaInfrastructure;
-			target = A0C2D62A49D17BD72B6EA969090CDCD5 /* IHakulaInfrastructure */;
-			targetProxy = C1B01FFF32C0ADDBE8582C794396E423 /* PBXContainerItemProxy */;
-		};
-		E3355144002C406C894C7D08E89848BB /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Reachability;
-			target = 1893DE70459B9C5430E1E53597BF9817 /* Reachability */;
-			targetProxy = A495651FEAADF58B4C966E15250A995D /* PBXContainerItemProxy */;
+			target = 3C94F2A5FB10E86640A40A831663EF98 /* IHakulaInfrastructure */;
+			targetProxy = 6A2464AF4A0F56C78AAF92BA7928FDF8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -1102,25 +1102,9 @@
 			};
 			name = Release;
 		};
-		D540FD0431A37EEEF46BFE32FF9CF9C2 /* Release */ = {
+		DC9F0EEA482308E58692025D8ABFE364 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA4ACA12A54DCD64CC33E80BF78BD624 /* IHakulaInfrastructure-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/IHakulaInfrastructure/IHakulaInfrastructure-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		F73A98A6EFC7924878FEAED8CFD9E692 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA4ACA12A54DCD64CC33E80BF78BD624 /* IHakulaInfrastructure-Private.xcconfig */;
+			baseConfigurationReference = 7269EA0BDAAE76F1AB5A1B43681B3ACE /* IHakulaInfrastructure-Private.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/IHakulaInfrastructure/IHakulaInfrastructure-prefix.pch";
@@ -1133,6 +1117,22 @@
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
+		};
+		F86B57F11D8F4675B67D0D2ECFCAB281 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7269EA0BDAAE76F1AB5A1B43681B3ACE /* IHakulaInfrastructure-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/IHakulaInfrastructure/IHakulaInfrastructure-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
 		};
 		FF0DE1B2E93DB61B3356F4529411DFB8 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -1153,20 +1153,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0C3F1DED3084BAD71B7E5F586A6F20A8 /* Build configuration list for PBXNativeTarget "IHakulaInfrastructure" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC9F0EEA482308E58692025D8ABFE364 /* Debug */,
+				F86B57F11D8F4675B67D0D2ECFCAB281 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0B57334D6C23DADAA4F7D802A5760EB2 /* Debug */,
 				03CA91998D6773EC5D02B3DB87B8353E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		323A3BBA3EFFFD480E4E2D1FE8E99BA2 /* Build configuration list for PBXNativeTarget "IHakulaInfrastructure" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F73A98A6EFC7924878FEAED8CFD9E692 /* Debug */,
-				D540FD0431A37EEEF46BFE32FF9CF9C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

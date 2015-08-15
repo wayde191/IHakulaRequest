@@ -84,6 +84,7 @@ PODS:
 
 DEPENDENCIES:
   - IHakulaInfrastructure (~> 0.2.0)
+  - Reachability
 
 SPEC CHECKSUMS:
   IHakulaInfrastructure: aec078c1b3bd9837afcb91a1899d459ccda8d61f
