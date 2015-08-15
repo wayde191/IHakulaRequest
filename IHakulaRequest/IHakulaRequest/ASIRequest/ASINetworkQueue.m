@@ -7,6 +7,7 @@
 //
 
 #import "ASINetworkQueue.h"
+#import <UIKit/UIKit.h>
 #import "ASIHTTPRequest.h"
 
 // Private stuff

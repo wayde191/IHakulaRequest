@@ -43,6 +43,11 @@
 		BA6ECF6F1B7F21DC008D1892 /* ASINSStringAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = BA6ECF601B7F21DC008D1892 /* ASINSStringAdditions.h */; };
 		BA6ECF701B7F21DC008D1892 /* ASINSStringAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = BA6ECF611B7F21DC008D1892 /* ASINSStringAdditions.m */; };
 		BA6ECF711B7F21DC008D1892 /* ASIProgressDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = BA6ECF621B7F21DC008D1892 /* ASIProgressDelegate.h */; };
+		BA6ECF731B7F25EF008D1892 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA6ECF721B7F25EF008D1892 /* CFNetwork.framework */; };
+		BA6ECF751B7F2602008D1892 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA6ECF741B7F2602008D1892 /* SystemConfiguration.framework */; };
+		BA6ECF771B7F260B008D1892 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA6ECF761B7F260B008D1892 /* MobileCoreServices.framework */; };
+		BA6ECF791B7F2616008D1892 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA6ECF781B7F2616008D1892 /* CoreGraphics.framework */; };
+		BA6ECF7B1B7F262B008D1892 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BA6ECF7A1B7F262B008D1892 /* libz.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +103,11 @@
 		BA6ECF601B7F21DC008D1892 /* ASINSStringAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASINSStringAdditions.h; sourceTree = "<group>"; };
 		BA6ECF611B7F21DC008D1892 /* ASINSStringAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ASINSStringAdditions.m; sourceTree = "<group>"; };
 		BA6ECF621B7F21DC008D1892 /* ASIProgressDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIProgressDelegate.h; sourceTree = "<group>"; };
+		BA6ECF721B7F25EF008D1892 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		BA6ECF741B7F2602008D1892 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		BA6ECF761B7F260B008D1892 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		BA6ECF781B7F2616008D1892 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		BA6ECF7A1B7F262B008D1892 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		E64A947662B1492C50C8A30F /* Pods-IHakulaRequest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IHakulaRequest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IHakulaRequest/Pods-IHakulaRequest.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +116,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA6ECF7B1B7F262B008D1892 /* libz.dylib in Frameworks */,
+				BA6ECF791B7F2616008D1892 /* CoreGraphics.framework in Frameworks */,
+				BA6ECF771B7F260B008D1892 /* MobileCoreServices.framework in Frameworks */,
+				BA6ECF751B7F2602008D1892 /* SystemConfiguration.framework in Frameworks */,
+				BA6ECF731B7F25EF008D1892 /* CFNetwork.framework in Frameworks */,
 				443CC07B0FB76AAC4CE19ABA /* libPods-IHakulaRequest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,6 +151,11 @@
 		383D15E3383CA638D5075E2B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				BA6ECF7A1B7F262B008D1892 /* libz.dylib */,
+				BA6ECF781B7F2616008D1892 /* CoreGraphics.framework */,
+				BA6ECF761B7F260B008D1892 /* MobileCoreServices.framework */,
+				BA6ECF741B7F2602008D1892 /* SystemConfiguration.framework */,
+				BA6ECF721B7F25EF008D1892 /* CFNetwork.framework */,
 				7C88F88F1AFD26E4B9900C6B /* libPods-IHakulaRequest.a */,
 				268C9A4921FC0FC0D115406E /* libPods-IHakulaRequestTests.a */,
 			);

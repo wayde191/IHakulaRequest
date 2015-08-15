@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import "iHResponseSuccess.h"
 #import "iHResponseFailure.h"
 #import "ASIHTTPRequest.h"

@@ -7,6 +7,7 @@
 //
 
 #import "ASIFormDataRequest.h"
+#import "iHDebug.h"
 
 
 // Private stuff
