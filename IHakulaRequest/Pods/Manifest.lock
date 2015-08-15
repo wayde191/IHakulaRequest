@@ -1,17 +1,4 @@
 PODS:
-  - ASIHTTPRequest (1.8.2):
-    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
-    - ASIHTTPRequest/CloudFiles (= 1.8.2)
-    - ASIHTTPRequest/Core (= 1.8.2)
-    - ASIHTTPRequest/S3 (= 1.8.2)
-  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
-    - ASIHTTPRequest/Core
-  - ASIHTTPRequest/CloudFiles (1.8.2):
-    - ASIHTTPRequest/Core
-  - ASIHTTPRequest/Core (1.8.2):
-    - Reachability
-  - ASIHTTPRequest/S3 (1.8.2):
-    - ASIHTTPRequest/Core
   - IHakulaInfrastructure (0.2.0):
     - IHakulaInfrastructure/Additions (= 0.2.0)
     - IHakulaInfrastructure/Common (= 0.2.0)
@@ -96,12 +83,10 @@ PODS:
   - Reachability (3.2)
 
 DEPENDENCIES:
-  - ASIHTTPRequest
   - IHakulaInfrastructure (~> 0.2.0)
 
 SPEC CHECKSUMS:
-  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
-  IHakulaInfrastructure: 30bb73eea3fe0c7e8c58cfb026b3a2e5b8417013
+  IHakulaInfrastructure: aec078c1b3bd9837afcb91a1899d459ccda8d61f
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
 
 COCOAPODS: 0.38.2

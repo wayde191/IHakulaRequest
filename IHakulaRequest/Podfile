@@ -9,7 +9,6 @@ platform :ios, '7.1'
 # IHakulaRequest common dependencies
 def commonPods
     pod 'IHakulaInfrastructure', '~> 0.2.0'
-    pod 'ASIHTTPRequest'
 end
 
 target 'IHakulaRequest' do
