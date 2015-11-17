@@ -39,4 +39,6 @@
 - (void)networkChanged;
 - (void)networkUnreachable;
 
+- (NSString *)getErrorMessageByState:(NSString *)state;
+
 @end

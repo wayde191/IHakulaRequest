@@ -34,6 +34,26 @@
     return self;
 }
 
+#pragma mark - Error Message
+- (NSString *)getErrorMessageByState:(NSString *)state {
+    NSString *errorMessage = nil;
+    switch ([state intValue]) {
+        case 909:
+            errorMessage = @"密码错误";
+            break;
+        case 910:
+            errorMessage = @"账号不存在";
+            break;
+            
+            
+        default:
+            break;
+    }
+    
+    return errorMessage;
+}
+
+
 #pragma mark - iHRequestDelegate
 - (void)requestDidStarted
 {

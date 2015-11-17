@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F4145632E3E10596396A224C34D6696624E723D1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DBDEA4EAFEC9FBDBF4DFE73A727449F9BE92B9F" : 0,
+    "F4145632E3E10596396A224C34D6696624E723D1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "355AF49D-7164-4DF1-A774-CA17A602741C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DBDEA4EAFEC9FBDBF4DFE73A727449F9BE92B9F" : "IHakulaInfrastructure",
+    "F4145632E3E10596396A224C34D6696624E723D1" : "IHakulaRequest"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IHakulaRequest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IHakulaRequest\/IHakulaRequest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wayde191\/IHakulaInfrastructure.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DBDEA4EAFEC9FBDBF4DFE73A727449F9BE92B9F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wayde191\/IHakulaRequest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4145632E3E10596396A224C34D6696624E723D1"
+    }
+  ]
+}
