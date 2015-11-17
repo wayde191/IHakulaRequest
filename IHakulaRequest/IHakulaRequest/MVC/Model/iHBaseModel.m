@@ -38,6 +38,12 @@
 - (NSString *)getErrorMessageByState:(NSString *)state {
     NSString *errorMessage = nil;
     switch ([state intValue]) {
+        case 902:
+            errorMessage = @"手机号已被注册";
+            break;
+        case 903:
+            errorMessage = @"注册失败";
+            break;
         case 909:
             errorMessage = @"密码错误";
             break;
